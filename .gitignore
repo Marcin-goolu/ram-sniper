@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Profile przeglądarki (bardzo duże!)
+chrome_profile_multi/
+chrome_profile_test/
+chrome_profile_v2/
+chrome_profile/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Inne
+*.log
