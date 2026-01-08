@@ -6,7 +6,8 @@ import json
 import re
 import csv
 import html
-from datetime import datetime
+from datetime import datetime, timedelta
+import subprocess
 from playwright.async_api import async_playwright
 from bs4 import BeautifulSoup
 
@@ -681,20 +682,55 @@ def generate_pro_html(categorized_data, history_data, next_scan_time):
     with open(REPORT_FILE, "w", encoding="utf-8") as f: f.write(html_content)
     print(f"Raport zaktualizowany: {REPORT_FILE}")
 
-async def main():
-    print("--- RAM Sniper PARALLEL (6 Shops Concurrent) ---")
+
+def publish_to_github():
+    print("\n📦 [GIT] Rozpoczynanie publikacji...")
+    try:
+        # 1. Konfiguracja Git (jeśli potrzebna)
+        subprocess.run(["git", "config", "user.email", "automat@ram-sniper.local"], check=False, stdout=subprocess.DEVNULL)
+        subprocess.run(["git", "config", "user.name", "RAM Sniper Bot"], check=False, stdout=subprocess.DEVNULL)
+
+        # 2. Kopiowanie raportu do index.html
+        import shutil
+        shutil.copy2(REPORT_FILE, "index.html")
+        print("   -> Skopiowano raport do index.html")
+
+        # 3. Dodawanie plików
+        subprocess.run(["git", "add", "index.html"], check=True)
+        subprocess.run(["git", "add", HISTORY_FILE], check=False) # Może nie istnieć
+
+        # 4. Commit (z datą)
+        msg = f"Automatyczna aktualizacja: {datetime.now().strftime('%Y-%m-%d %H:%M')}"
+        subprocess.run(["git", "commit", "-m", msg], check=False, stdout=subprocess.DEVNULL) # Ignoruj błąd jeśli brak zmian
+
+        # 5. Push
+        result = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
+        if result.returncode == 0:
+            print("✅ [GIT] Zmiany wysłane na GitHub!")
+            print(f"   Link: https://marcin-goolu.github.io/ram-sniper/")
+        else:
+            print(f"⚠️ [GIT] Błąd push: {result.stderr}")
+
+    except Exception as e:
+        print(f"❌ [GIT] Wystąpił błąd: {e}")
+
+async def run_cycle():
+    print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] --- START NOWEGO CYKLU ---")
+    
     if not os.path.exists(USER_DATA_DIR): os.makedirs(USER_DATA_DIR)
     
     async with async_playwright() as p:
+        # Uruchamiamy przeglądarkę
         browser = await p.chromium.launch_persistent_context(
             user_data_dir=USER_DATA_DIR,
-            headless=False,
+            headless=True, # Zmieniono na TRUE dla trybu ciągłego w tle
             args=["--disable-blink-features=AutomationControlled", "--start-maximized"],
             viewport=None
         )
+        # Krótkie czekanie na inicjalizację
         await asyncio.sleep(2)
         
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] Uruchamianie workerów...")
+        print("   -> Uruchamianie workerów skanujących...")
         
         tasks_by_shop = {}
         for task in SCENARIOS:
@@ -714,22 +750,45 @@ async def main():
             if isinstance(res, list):
                 all_found_products.extend(res)
             else:
-                print(f"!!! Błąd jednego z workerów: {res}")
+                print(f"   !!! Błąd workera: {res}")
 
         await browser.close()
         
         if all_found_products:
-            print(f"\n--- SKANOWANIE ZAKOŃCZONE. Łącznie produktów: {len(all_found_products)} ---")
-            print("Generowanie raportów...")
+            print(f"   -> Znaleziono łącznie: {len(all_found_products)} ofert.")
             export_all_products_to_excel_csv(all_found_products)
             export_to_real_excel(all_found_products)
             best_deals = categorize_and_pick_best(all_found_products)
             history = update_history(best_deals)
-            generate_pro_html(best_deals, history, "DONE")
+            
+            # Obliczamy czas następnego skanu do wyświetlenia w raporcie
+            next_scan = datetime.now() + timedelta(minutes=15)
+            generate_pro_html(best_deals, history, next_scan.strftime("%H:%M"))
+            
             export_to_csv(best_deals)
-            print(f"SUKCES! Raporty gotowe: {REPORT_FILE}")
+            
+            # PUBLIKACJA
+            publish_to_github()
         else:
-            print("!!! Pusta lista produktów. Coś poszło nie tak.")
+            print("   ⚠️ Brak produktów. Pomijam generowanie raportu.")
+
+async def main_loop():
+    print("========================================================")
+    print("   RAM SNIPER PARALLEL - TRYB CIĄGŁY (15 min)")
+    print("========================================================")
+    
+    while True:
+        try:
+            await run_cycle()
+        except Exception as e:
+            print(f"!!! KRYTYCZNY BŁĄD CYKLU: {e}")
+        
+        print("\n[INFO] Czekam 15 minut na kolejny skan...")
+        # Odliczanie (opcjonalne, ale pomocne)
+        await asyncio.sleep(15 * 60) 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    try:
+        asyncio.run(main_loop())
+    except KeyboardInterrupt:
+        print("\n🛑 Zatrzymano przez użytkownika (Ctrl+C).")

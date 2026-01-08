@@ -10,9 +10,8 @@ git config user.email "automat@ram-sniper.local"
 git config user.name "RAM Sniper Bot"
 
 echo.
-echo 2. Pominiecie skanowania (dla testu naprawy)...
-REM Aby wlaczyc skanowanie, usun "REM" z linii ponizej:
-REM python ram_sniper_parallel.py
+echo 2. Generowanie nowego raportu...
+python ram_sniper_parallel.py
 
 echo.
 echo 3. Przygotowanie plikow dla GitHub Pages...
