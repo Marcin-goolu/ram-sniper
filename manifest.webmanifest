@@ -1,0 +1,17 @@
+{
+  "name": "RAM Radar Pro",
+  "short_name": "RAM Radar",
+  "description": "Mobilny dashboard cen pamięci DDR5",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090a",
+  "theme_color": "#5e6ad2",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
