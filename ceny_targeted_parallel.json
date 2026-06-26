@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T14:11:48",
-  "generated_label": "26.06.2026 14:11",
+  "generated_at": "2026-06-26T14:45:10",
+  "generated_label": "26.06.2026 14:45",
   "summary": {
     "total_products": 217,
     "suspicious_count": 0,
@@ -12,7 +12,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RDMD16GSD55600-SB-1.jpg",
       "raw_title": "PNY 16GB [1x16GB 5600MHz DDR5 CL40 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -35,7 +35,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/14795677_2_i256.jpg",
       "raw_title": "Pamięć ADATA XPG Lancer Blade RGB, DDR5, 32 GB, 6000MHz, CL36 (AX5U6000C3616G-DTLABRBK)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -113,7 +113,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RDMD16GSD55600-SB-1.jpg",
         "raw_title": "PNY 16GB [1x16GB 5600MHz DDR5 CL40 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -136,7 +136,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMIR5600D564L36S16G-1.jpg",
         "raw_title": "GOODRAM IRDM 16GB [1x16GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -159,7 +159,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/15238606_0_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM, DDR5, 16 GB, 5600MHz, CL36 (IRDM DDR5 R-5600D564L36S/16G)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -182,7 +182,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14221890_1_i256.jpg",
         "raw_title": "Pamięć PNY XLR8 RGB, DDR5, 16 GB, 6000MHz, CL36 (MD16GD5600036RGB-BLK)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -205,7 +205,7 @@
         "module_type": "single",
         "image": "/img/300x/c584b2/K0R415p9h0a0b1l6r8p9f7M5X8R4J4i4.jpg",
         "raw_title": "PATRIOT DDR5 16GB PRENIUM BLACK 5600MHz DDR5 / 16 GB / 1 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -228,7 +228,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/15568523_1_i256.jpg",
         "raw_title": "Pamięć PNY Performance, DDR5, 16 GB, 5600MHz, CL40 (MD16GSD55600-SB)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -251,7 +251,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BB-16-1.jpg",
         "raw_title": "Kingston Fury Beast Black 16GB [1x16GB 5600MHz DDR5 CL40 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -274,7 +274,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14420748_1_i256.jpg",
         "raw_title": "Pamięć Origin Performance, DDR5, 16 GB, 5600MHz, CL40 (MD16GSD55600-BLK)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -297,7 +297,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14221870_1_i256.jpg",
         "raw_title": "Pamięć PNY XLR8, DDR5, 16 GB, 6000MHz, CL36 (MD16GSD5600036XR-BLK)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -320,7 +320,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14150517_0_i256.jpg",
         "raw_title": "Pamięć Patriot Viper Venom, DDR5, 16 GB, 6000MHz, CL36 (PVV516G60C30)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -343,7 +343,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/9692603_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 5600MHz, CL40 (KF556C40BB-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -366,7 +366,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/11811203_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 5600MHz, CL36 (KF556C36BBEA-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -389,7 +389,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/12994066_2_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 5600MHz, CL36 (KF556C36BWEA-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -412,7 +412,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/10589119_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 5600MHz, CL40 (KF556C40BBA-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -435,7 +435,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE-16-1.jpg",
         "raw_title": "Kingston Fury Beast Black EXPO 16GB [1x16GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -458,7 +458,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/11811202_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 5600MHz, CL36 (KF556C36BBE-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -481,7 +481,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13221537_1_i256.jpg",
         "raw_title": "Pamięć Crucial Pro Overclocking, DDR5, 16 GB, 6000MHz, CL36 (CP16G60C36U5B)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -504,7 +504,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/11044057_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Renegade, DDR5, 16 GB, 6400MHz, CL32 (KF564C32RS-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -527,7 +527,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14013484_0_i256.jpg",
         "raw_title": "Pamięć Kingston Beast, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BWE2-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -550,7 +550,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14012413_0_i256.jpg",
         "raw_title": "Pamięć Kingston Beast, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BBE2-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -573,7 +573,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14508004_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Aegis 5, DDR5, 16 GB, 5600MHz, CL36 (F5-5600J3636C16GX1-IS)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -596,7 +596,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13235863_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 6400MHz, CL32 (KF564C32BWE-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -619,7 +619,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14218279_1_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BWE2A-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -642,7 +642,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBEA-16-1.jpg",
         "raw_title": "Kingston Fury Beast Black RGB EXPO AMD 16GB [1x16GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -665,7 +665,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BBA-16-1.jpg",
         "raw_title": "Kingston Fury Beast RGB 16GB [1x16GB 5600MHz DDR5 CL40 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -688,7 +688,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13239960_1_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BWEA-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -711,7 +711,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13215279_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BBEA-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -734,7 +734,7 @@
         "module_type": "single",
         "image": "/img/300x/5c2c9b/H4O812K3o0t0k1c7w3I881Z9z7R4z9l5.jpg",
         "raw_title": "G.SKILL AEGIS 5 DDR5 16GB 5600MHZ CL36-36 XMP3 BLADDR5 / 16 GB / 1 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -757,7 +757,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/1/163090242329/b567da33a6a8b8d774beaed5c1e0741a/goodram-pamiec-ram-goodr-1x16-5600-sr-cl36-b-s,163090242329_7.webp",
         "raw_title": "Pamięć RAM GoodRam IRDM DDR5 16GB 5600 CL36 Czarny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -780,7 +780,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_15_14_109_00.jpg",
         "raw_title": "Kingston FURY 16GB (1x16GB) 5600MHz CL36 Beast RGB EXPO AMD",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -803,7 +803,7 @@
         "module_type": "single",
         "image": "/img/300x/a80c68/Q9U2w9R9v0w031M7G328S1H9u7C5I565.jpg",
         "raw_title": "G.SKILL AEGIS 5 DDR5 16GB 6000MHZ CL36-36 XMP3 BLADDR5 / 16 GB / 1 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -826,7 +826,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13235862_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 6400MHz, CL32 (KF564C32BBE-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -849,7 +849,7 @@
         "module_type": "single",
         "image": "/img/300x/4791ec/L8J6e9h1q0P08127h7r0Q693h2h4G5y2.jpg",
         "raw_title": "GOODRAM DDR5 16GB CL36 2048Mx8 IRDMDDR5 / 16 GB / 1 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -872,7 +872,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13239660_0_i256.jpg",
         "raw_title": "Pamięć Kingston Beast, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BWE-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -895,7 +895,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/8/pr_2022_8_11_11_37_11_206_00.jpg",
         "raw_title": "Kingston FURY 16GB (1x16GB) 6400MHz CL32 Renegade Silver",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -918,7 +918,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13215275_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BBE-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -941,7 +941,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/15666495_0_i256.jpg",
         "raw_title": "Pamięć Corsair Vengeance, DDR5, 16 GB, 6000MHz, CL36 (CMK16GX5M1E6000Z36)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -964,7 +964,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_12_1_42_388_00.jpg",
         "raw_title": "Kingston FURY 16GB (1x16GB) 6000 CL36 Beast Czarny",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -987,7 +987,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_25_12_56_37_3_00.jpg",
         "raw_title": "Patriot 16GB (1x16GB) 6000 CL30 Viper VENOM",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1010,7 +1010,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_14_56_32_578_00.jpg",
         "raw_title": "Kingston FURY 16GB (1x16GB) 6000 CL30 Beast Biały",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1033,7 +1033,7 @@
         "module_type": "single",
         "image": "/img/300x/8a6696/88E9z0K3m0s0f1r6X9p7w731i4H2K5d2.jpg",
         "raw_title": "Samsung SO-DIMM 16GB DDR5 1Rx8 5600MHz PC5-44800 M425R2GA3BB0-CWMDDR5 / 16 GB / 1 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1056,7 +1056,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14012428_3_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BBE2A-16)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1079,7 +1079,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/13269673_0_i256.jpg",
         "raw_title": "Pamięć ADATA XPG Lancer Blade, DDR5, 16 GB, 6000MHz, CL30 (AX5U6000C3016G-SLABBK)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1102,7 +1102,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/14508008_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Aegis 5, DDR5, 16 GB, 6000MHz, CL36 (F5-6000J3636F16GX1-IS)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1125,7 +1125,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/3/154699450585/76fe94a04b2e6ea4e02b506e537d02b5/kingston-pam-ram-king-fury-b-16-ddr5-cl36-6000-bk,154699450585_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 16GB 6000 CL36 Czarny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1148,7 +1148,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RDIR8000D564L36S16G-1.jpg",
         "raw_title": "GOODRAM IRDM 16GB [1x16GB 8000MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1171,7 +1171,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/15837023_0_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM, DDR5, 16 GB, 8000MHz, CL36 (IR-8000D564L36S/16G)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1194,7 +1194,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_21_14_10_7_422_02.jpg",
         "raw_title": "GOODRAM 16GB(1x16GB) 8000 CL36 IRDM Black",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1217,7 +1217,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/3/126679551625/76fe94a04b2e6ea4e02b506e537d02b5/kingston-fury-beast-ddr5-16gb-5600-cl36,126679551625_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 16GB 5600 CL36 Czarny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1240,7 +1240,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_11_56_56_982_00.jpg",
         "raw_title": "Kingston FURY 16GB (1x16GB) 6000 CL30 Beast Czarny",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1263,7 +1263,7 @@
         "module_type": "single",
         "image": "/img/300x/220ec1/G1B87411h0U0n1J7O5h8p8h7k4165097.webp",
         "raw_title": "ASUS TUF Gaming A18 FA808UM-S9058 Ryzen 7 260 18.0\" 2.5K 240Hz IPS-level 500nits AG 16GB DDR5 5600 SSD512 GeForce R…",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 16,
           "modules": 1,
@@ -1288,7 +1288,7 @@
         "module_type": "single",
         "image": "https://images.morele.net/i256/15238618_0_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 5600MHz, CL36 (IRDM DDR5 IR-5600D564L36/32G)",
-        "fetched_at": "2026-06-26T14:09:08",
+        "fetched_at": "2026-06-26T14:42:31",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1311,7 +1311,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE2-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black 32GB [1x32GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1334,7 +1334,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE2A-32-1.jpg",
         "raw_title": "Kingston Fury Beast RGB 32GB [1x32GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1357,7 +1357,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/3/154327377841/a2bb4e9307f5e60c697b72e24c474d57/kingston-fury-beast-ddr5-32gb-5600-cl40-czarny,154327377841_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB 5600 CL40 Czarny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1380,7 +1380,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/7/139930868057/76fe94a04b2e6ea4e02b506e537d02b5/kingston-pamiec-fury-beast-blac-32gb-6400-d5_1,139930868057_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB 6400 CL32 EXPO Czarny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1403,7 +1403,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black EXPO 32GB [1x32GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1426,7 +1426,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_8_23_316_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 5600MHz CL36 Beast Black EXPO",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1449,7 +1449,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_8_23_316_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 6000MHz CL36 Beast Black EXPO",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1472,7 +1472,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/9/163718072017/fff7ac89d889a0393ae263d004d9a23/silicon-power-xpower-pulse-ddr5-32gb-6000-cl38,163718072017_7.webp",
         "raw_title": "Pamięć RAM Silicon Power XPOWER Pulse DDR5 32GB 6000 CL38",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1495,7 +1495,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_15_14_109_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 5600MHz CL36 Beast RGB EXPO",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1518,7 +1518,7 @@
         "module_type": "single",
         "image": "/img/300x/a5a994/W4M8P9E9u0g0p1R7u179h5a6r056Y9C0.jpg",
         "raw_title": "Samsung SO-DIMM 32GB DDR5 2Rx8 5600MHz PC5-44800 M425R4GA3BB0-CWMDDR5 / 32 GB / 1 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1541,7 +1541,7 @@
         "module_type": "single",
         "image": "/img/300x/8f0a36/W3X1X6V5Q030f1g7A3z8w1g9A7F3E1b3.jpg",
         "raw_title": "G.SKILL AEGIS 5 DDR5 32GB 6000MHZ CL36-36 XMP3 BLADDR5 / 32 GB / 1 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1564,7 +1564,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_13_25_55_90_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL36 Beast RGB Czarny",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1587,7 +1587,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RDKF560C30BBE-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black EXPO 32GB [1x32GB 6000MHz DDR5 CL30 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1610,7 +1610,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_12_33_38_815_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL30 Beast Czarny",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1633,7 +1633,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_12_33_38_815_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 6400 CL32 Beast Czarny",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1656,7 +1656,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/7/pr_2025_7_25_12_32_32_810_00.jpg",
         "raw_title": "Patriot 32GB (1x32GB) 6000 CL30 VIPER RGB Elite 5",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1679,7 +1679,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/7/139930879321/76fe94a04b2e6ea4e02b506e537d02b5/kingston-pamiec-fury-beast-black-32gb-6000-d5_1,139930879321_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB 6000 CL30 EXPO Czarny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1702,7 +1702,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_25_15_10_7_383_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL30 Beast Biały",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1725,7 +1725,7 @@
         "module_type": "single",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_28_11_24_51_882_00.jpg",
         "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL30 Beast RGB Biały",
-        "fetched_at": "2026-06-26T14:08:44",
+        "fetched_at": "2026-06-26T14:42:07",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1748,7 +1748,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RDKF560C36BBE-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black EXPO 32GB [1x32GB 6000MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1771,7 +1771,7 @@
         "module_type": "single",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BB-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black 32GB [1x32GB 5600MHz DDR5 CL40 DIMM]",
-        "fetched_at": "2026-06-26T14:10:05",
+        "fetched_at": "2026-06-26T14:43:31",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1794,7 +1794,7 @@
         "module_type": "single",
         "image": "/img/300x/7243f4/36Y3y1r270e0j1R7m349H5Y4Q7f750j6.jpg",
         "raw_title": "Silicon Power XPOWER Pulse Gaming DDR5 32GB (1x32GB) 6000MHz CL38DDR5 / 32 GB / 1 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1817,7 +1817,7 @@
         "module_type": "single",
         "image": "/img/300x/a6bd0d/57P2w5i4K0z0I1i7W2S4B014a5q5s9E7.jpg",
         "raw_title": "Silicon Power XPOWER Pulse Gaming DDR5 32GB (1x32GB) 6000MHz CL30 1,35VDDR5 / 32 GB / 1 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:31",
+        "fetched_at": "2026-06-26T14:42:54",
         "specs": {
           "capacity_gb": 32,
           "modules": 1,
@@ -1842,7 +1842,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/9/156466715841/14862b801f11dc0566d69b51e99ab85e/kingston-pam-king-48g-6000-d5-cl32-fury-re-sl-xmp,156466715841_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Renegade DDR5 48GB 6000 CL32 Czarno-srebrny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 48,
           "modules": 1,
@@ -1865,7 +1865,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/5/156466843049/795c6a9baef8a2d5876bdc31bc96a810/kingston-pam-king-fu-re-48g-6000-d5-cl32-rg-xmp,156466843049_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Renegade RGB DDR5 48GB 6000 CL32 Srebrny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 48,
           "modules": 1,
@@ -1890,7 +1890,7 @@
         "module_type": "single",
         "image": "https://f00.osfr.pl/foto/2/165147909009/3d1f066df3ed7925629c207d216d9e5/kingston-p-ram-king-fury-1x64-d5-5600-cl36-rgb-ex,165147909009_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast RGB DDR5 64GB 5600 CL36 EXPO Czarny",
-        "fetched_at": "2026-06-26T14:10:44",
+        "fetched_at": "2026-06-26T14:44:07",
         "specs": {
           "capacity_gb": 64,
           "modules": 1,
@@ -1915,7 +1915,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/14795677_2_i256.jpg",
         "raw_title": "Pamięć ADATA XPG Lancer Blade RGB, DDR5, 32 GB, 6000MHz, CL36 (AX5U6000C3616G-DTLABRBK)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -1938,7 +1938,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13121355_0_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 6400MHz, CL32 (IR-6400D564L32S/32GDC)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -1961,7 +1961,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_22_9_24_53_830_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 5600 CL36 IRDM",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -1984,7 +1984,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/14982458_0_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 6000MHz, CL36 (IR-6000D564L36S/32GDC)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2007,7 +2007,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/7/138017114577/dfae36479300c1b0abc65bf11a44f11e/patriot-pamiec-ram-patr-viper-venom-6400-2x16gb,138017114577_7.webp",
         "raw_title": "Pamięć RAM Patriot Viper Venom DDR5 32GB (2 x 16GB) 6400 CL32 Szary",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2030,7 +2030,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_9_15_20_47_689_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 6000 CL36 IRDM BLACK V SILVER",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2053,7 +2053,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_22_9_24_53_830_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 6400MHz CL32 IRDM BLACK V SILVER",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2076,7 +2076,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/15758890_0_i256.jpg",
         "raw_title": "Pamięć Apacer Pamięć DDR5 Apacer Panther 32GB (2x16GB) 6000MHz CL38 1,35V HS",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2099,7 +2099,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/14625084_1_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 5600MHz, CL36 (IR-5600D564L36S/32GDC)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2122,7 +2122,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13115327_6_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 6000MHz, CL30 (IR-6000D564L30S/32GDC)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2145,7 +2145,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/12462379_3_i256.jpg",
         "raw_title": "Pamięć Patriot Viper Venom, DDR5, 32 GB, 6000MHz, CL36 (PVV532G600C36K)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2168,7 +2168,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/4/153098973889/dfae36479300c1b0abc65bf11a44f11e/patriot-pamiec-ram-patr-venom-32gb-ddr5-6000mts,153098973889_7.webp",
         "raw_title": "Pamięć RAM Patriot Viper Venom DDR5 32GB (2 x 16GB) 6000 CL30 Szary",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2191,7 +2191,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_22_8_53_46_748_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 6000MHz CL30 IRDM BLACK V SILVER",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2214,7 +2214,7 @@
         "module_type": "dual",
         "image": "/img/300x/11ea33/Z0S7m7o960W0K1l7I0j1z1t7d882q4w8.jpg",
         "raw_title": "GOODRAM DDR5 32GB 6000MHz CL30 2048x8DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2237,7 +2237,7 @@
         "module_type": "dual",
         "image": "/img/300x/fbb8f5/Z2U4Y5d9r0z0Z1a7B0R1h3P7T3C1z3W5.jpg",
         "raw_title": "GOODRAM DDR5 32GB 6400MHz CL32 2048x8DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2260,7 +2260,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/7/153099324329/d8be4223e8f2d4de84b180e7c96a3a3b/patriot-pamiec-ram-patr-venom-32g-ddr5-6000-rgb,153099324329_7.webp",
         "raw_title": "Pamięć RAM Patriot Viper Venom RGB DDR5 32GB (2 x 16GB) 6000 CL30 Szary",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2283,7 +2283,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C380V-RGD-1.jpg",
         "raw_title": "Lexar Thor 32GB [2x16GB 6000MHz DDR5 CL38 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2306,7 +2306,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/12733804_0_i256.jpg",
         "raw_title": "Pamięć Patriot Viper Venom, DDR5, 32 GB, 6400MHz, CL32 (PVV532G640C32K)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2329,7 +2329,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMIR-6000D564L30S32GDC-1.jpg",
         "raw_title": "GOODRAM IRDM 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2352,7 +2352,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMIR-6400D564L32S32GDC-1.jpg",
         "raw_title": "GOODRAM IRDM 32GB [2x16GB 6400MHz DDR5 CL32 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2375,7 +2375,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/12733799_0_i256.jpg",
         "raw_title": "Pamięć Patriot Viper Venom, DDR5, 32 GB, 7000MHz, CL32 (PVV532G700C32K)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2398,7 +2398,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/7/138017061161/dfae36479300c1b0abc65bf11a44f11e/patriot-pamiec-ram-patr-viper-venom-6000-2x16gb,138017061161_7.webp",
         "raw_title": "Pamięć RAM Patriot Viper Venom DDR5 32GB (2 x 16GB) 6000 CL36 Szary",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2421,7 +2421,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/5/pr_2022_5_10_13_4_4_266_01.jpg",
         "raw_title": "Patriot 32GB (2x16GB) 7200MHz CL34 VIPER VENOM",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2444,7 +2444,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMIRG-60D5L30S32GDC-1.jpg",
         "raw_title": "GOODRAM IRDM RGB 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2467,7 +2467,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_21_14_10_4_212_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 6800MHz CL34 IRDM BLACK V SILVER",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2490,7 +2490,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13155417_6_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM RGB, DDR5, 32 GB, 6000MHz, CL30 (IRG-60D5L30S/32GDC)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2513,7 +2513,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMAX5U6000C3616G-DTLABRBK-1.jpg",
         "raw_title": "Adata XPG Lancer Blade RGB 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2536,7 +2536,7 @@
         "module_type": "dual",
         "image": "/img/300x/0b331a/M0U0k7E0h0A0T1i7j3q0O8m0y9y260A3.jpg",
         "raw_title": "PATRIOT DDR5 Viper Venom 2x16GB 6400MHz CL32 XMP3DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2559,7 +2559,7 @@
         "module_type": "dual",
         "image": "/img/300x/615e8f/15A2k7u0r0c0a1g7r310C8O0S993e5D4.jpg",
         "raw_title": "Patrot Viper Venom DDR5 32GB KIT 6000MTsDDR5 / 32 GB / 2 x 16 GB / CL",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2582,7 +2582,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13216338_0_i256.jpg",
         "raw_title": "Pamięć Lexar Ares, DDR5, 32 GB, 6000MHz, CL32 (LD5U16G60C320A-RGD)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2605,7 +2605,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/600016103_0_i256.jpg",
         "raw_title": "Pamięć AGI Technology UD858 TurboJet, DDR5, 32 GB, 6000MHz, CL30 (AGI6AWT16UD858-DR)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2628,7 +2628,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/7/121794087297/150b5b4cddca620830004a9dbcadd2bf/kingston-pami-pc-king-ddr5-fury32gb2x165600bk,121794087297_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 5600 CL36 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2651,7 +2651,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C30BR-RGD-1.jpg",
         "raw_title": "Lexar Ares RGB 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2674,7 +2674,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/9678869_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast, DDR5, 32 GB, 5600MHz, CL40 (KF556C40BBK2-32)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2697,7 +2697,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/15394172_9_i256.jpg",
         "raw_title": "Pamięć Lexar Ares RGB Gen2, DDR5, 32 GB, 6000MHz, CL30 (LD5U16G60C30BR-RGD)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2720,7 +2720,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/15600779_1_i256.jpg",
         "raw_title": "Pamięć Lexar Ares, DDR5, 32 GB, 6000MHz, CL30 (LD5U16G60C300A-RGD)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2743,7 +2743,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/7/121794504377/150b5b4cddca620830004a9dbcadd2bf/kingston-pami-pc-king-ddr5-fury32gb2x165600bk_1,121794504377_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 5600 CL40 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2766,7 +2766,7 @@
         "module_type": "dual",
         "image": "/img/300x/02bef4/R8O6z46400f0U1U6k718H9E6A0e4X0i9.jpg",
         "raw_title": "PATRIOT DDR5 2x16GB VIPER VENOM 5600MHz CL36DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2789,7 +2789,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13992066_0_i256.jpg",
         "raw_title": "Pamięć Kingston Beast, DDR5, 32 GB, 6000MHz, CL36 (KF560C36BBE2K2-32)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2812,7 +2812,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/11892219_0_i256.jpg",
         "raw_title": "Pamięć Kingston Fury Beast, DDR5, 32 GB, 5600MHz, CL36 (KF556C36BBEK2-32)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2835,7 +2835,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/9776324_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Trident Z5 RGB, DDR5, 32 GB, 5600MHz, CL36 (F5-5600J3636C16GX2-TZ5RS)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2858,7 +2858,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMPVV532G600C36K-1.jpg",
         "raw_title": "Patriot Viper Venom 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2881,7 +2881,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13245763_1_i256.jpg",
         "raw_title": "Pamięć Patriot Viper Venom RGB, DDR5, 32 GB, 6000MHz, CL30 (PVVR532G600C30K)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2904,7 +2904,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/15498937_0_i256.jpg",
         "raw_title": "Pamięć Patriot Viper Elite 5 RGB, DDR5, 32 GB, 6000MHz, CL30 (PVER532G60C30KW)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2927,7 +2927,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/14508014_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Aegis 5, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2-IS)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2950,7 +2950,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/9705286_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Trident Z5 RGB, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2- TZ5RS)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2973,7 +2973,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/9778762_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Trident Z5, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2-TZ5K)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -2996,7 +2996,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13188230_0_i256.jpg",
         "raw_title": "Pamięć ADATA XPG Lancer Blade, DDR5, 32 GB, 6400MHz, CL32 (AX5U6400C3216G-DTLABBK)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3019,7 +3019,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C320A-RGD-1.jpg",
         "raw_title": "Lexar Ares Gaming 32GB [2x16GB 6000MHz DDR5 CL32 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3042,7 +3042,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_9_15_20_47_689_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 7200 CL34 IRDM BLACK V SILVER",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3065,7 +3065,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/15238704_3_i256.jpg",
         "raw_title": "Pamięć Patriot Viper Elite 5 RGB Ultra, DDR5, 32 GB, 6000MHz, CL28 (VEUR532G6028K)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3088,7 +3088,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBEK2-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black EXPO AMD 32GB [2x16GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3111,7 +3111,7 @@
         "module_type": "dual",
         "image": "/img/300x/ce9d25/32A9i2r0O0L0Y1D7n1s5N0q7R734n8p2.jpg",
         "raw_title": "GOODRAM DDR5 32GB DCKit 6800MHz IRDM Black V SilverDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3134,7 +3134,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMCP2K16G60C36U5B_WYP2-1.jpg",
         "raw_title": "Crucial Pro Overclocking 32GB [2x16GB 6000MHz DDR5 CL36 UDIMM] [oferta Outlet]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3157,7 +3157,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BBK2-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black 32GB [2x16GB 5600MHz DDR5 CL40 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3180,7 +3180,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2024/1/pr_2024_1_24_12_40_18_487_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 6000MHz CL30 IRDM RGB",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3203,7 +3203,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMPVV532G600C30K-1.jpg",
         "raw_title": "Patriot Viper Venom 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3226,7 +3226,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13155418_6_i256.jpg",
         "raw_title": "Pamięć GoodRam IRDM RGB, DDR5, 32 GB, 6400MHz, CL32 (IRG-64D5L32S/32GDC)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3249,7 +3249,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/12318281_1_i256.jpg",
         "raw_title": "Pamięć G.Skill Flare X5, DDR5, 32 GB, 5600MHz, CL36 (F5-5600J3636C16GX2-FX5)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3272,7 +3272,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/14221479_1_i256.jpg",
         "raw_title": "Pamięć Corsair Vengeance, DDR5, 32 GB, 6000MHz, CL38 (CMK32GX5M2B6000C38)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3295,7 +3295,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/5/139930875465/adc0b4f7d744409a199598e70164ef2e/kingston-pamiec-fury-beast-blac-32gb-6000-d5-2kit,139930875465_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 6000 CL30 EXPO Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3318,7 +3318,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/11875278_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Flare X5, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2-FX5)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3341,7 +3341,7 @@
         "module_type": "dual",
         "image": "/img/300x/308e64/J637L0I8Y0A0n1t677H829y6x0E46556.jpg",
         "raw_title": "PATRIOT DDR5 2x16GB VIPER VENOM 6000MHz CL36DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3364,7 +3364,7 @@
         "module_type": "dual",
         "image": "/img/300x/15cef1/Z423X7p730m0I1T698I9a7r5K8t6G7C0.jpg",
         "raw_title": "PATRIOT DDR5 2x16GB 5600MHz SIGNATURE PREMIUM KITDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3387,7 +3387,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMPVV532G640C32K-1.jpg",
         "raw_title": "Patriot Viper Venom 32GB [2x16GB 6400MHz DDR5 CL32 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3410,7 +3410,7 @@
         "module_type": "dual",
         "image": "/img/300x/905970/45I3j2N6B0O0z1g77320E850H9b15716.jpg",
         "raw_title": "PATRIOT DDR5 2x16GB VIPER VENOM 7000MHz CL32DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3433,7 +3433,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBEAK2-32-1.jpg",
         "raw_title": "Kingston Fury Beast Black RGB EXPO 32GB [2x16GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3456,7 +3456,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/9/138017134489/ec83b4b64f526271ed25cf203466b1fb/goodram-pamiec-ram-goodr-2x16g-sr-dimm-6000-cl30,138017134489_7.webp",
         "raw_title": "Pamięć RAM GoodRam IRDM DDR5 32GB (2 x 16GB) 6000 CL30 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3479,7 +3479,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMCP2K16G60C36U5B-1.jpg",
         "raw_title": "Crucial Pro Overclocking 32GB [2x16GB 6000MHz DDR5 CL36 UDIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3502,7 +3502,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BBAK2-32-1.jpg",
         "raw_title": "Kingston Fury Beast RGB 32GB [2x16GB 5600MHz DDR5 CL40 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3525,7 +3525,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/11/pr_2023_11_21_10_35_50_118_00.jpg",
         "raw_title": "G.SKILL 32GB (2x16GB) 6000MHz CL36 Flare X5 AMD EXPO",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3548,7 +3548,7 @@
         "module_type": "dual",
         "image": "/img/300x/ad4695/S8I0K5S8W0T0c1N763Y0Z8X0c8N6k0J9.jpg",
         "raw_title": "Patriot Viper Venom RGB DDR5 2x16GB 6000MHz CL30 XMP3DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3565,36 +3565,13 @@
       },
       {
         "shop": "komputronik",
-        "title": "Patriot Viper Venom RGB 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-        "price": 2044.0,
-        "url": "https://www.komputronik.pl/product/832881/patriot-viper-venom-rgb-32gb-2x16gb-6000mhz-ddr5-cl36-dimm-.html",
-        "module_type": "dual",
-        "image": "https://static.komputronik.pl/product-picture/5/RAMPVVR532G600C36K-1.jpg",
-        "raw_title": "Patriot Viper Venom RGB 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
-        "specs": {
-          "capacity_gb": 32,
-          "modules": 2,
-          "module_size_gb": 16,
-          "speed_mhz": 6000,
-          "cl": 36,
-          "category": "32GB (2x16GB)"
-        },
-        "suspicious": false,
-        "warnings": [],
-        "price_formatted": "2 044,00 zł",
-        "category": "32GB (2x16GB)",
-        "spec_line": "32GB • 2x16GB • 6000MHz • CL36"
-      },
-      {
-        "shop": "komputronik",
         "title": "GOODRAM IRDM 32GB [2x16GB 8000MHz DDR5 CL36 DIMM]",
         "price": 2045.07,
         "url": "https://www.komputronik.pl/product/1016784/goodram-irdm-32gb-2x16gb-8000mhz-ddr5-cl36-dimm-.html",
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/IR-8000D564L36S32GDC-1.jpg",
         "raw_title": "GOODRAM IRDM 32GB [2x16GB 8000MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3617,7 +3594,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMIRG-64D5L32S32GDC-1.jpg",
         "raw_title": "GOODRAM IRDM RGB 32GB [2x16GB 6400MHz DDR5 CL32 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3640,7 +3617,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/3/119789159961/4daf122cba153e087826212a2a24bba9/g-skill-g-skill-ddr5-6000-mt-s-2x16gbflare-x5amd,119789159961_7.webp",
         "raw_title": "Pamięć RAM G.Skill Flare X5 DDR5 32GB (2 x 16GB) 6000 CL36 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3663,7 +3640,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/5/156466449945/13f35bde18e402768677c10c1267a41f/kingston-pam-king-32-6000-d5-cl30-kof2-fury-rg-ex,156466449945_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast RGB DDR5 32GB (2 x 16GB) 6000 CL30 EXPO Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3686,7 +3663,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/2/121794088817/37f61590b92460ec54e5804c869a1e99/g-skill-pami-pc-g-skill-ddr5-32gb2x16rgb6400,121794088817_7.webp",
         "raw_title": "Pamięć RAM G.Skill Trident Z5 RGB DDR5 32GB (2 x 16GB) 6400 CL32 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3709,7 +3686,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_13_38_23_972_02.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB)/6000 CL36 Beast RGB Czarny",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3732,7 +3709,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2024/1/pr_2024_1_24_12_40_18_487_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 6400MHz CL32 IRDM RGB",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3755,7 +3732,7 @@
         "module_type": "dual",
         "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BWEAK2-32-1.jpg",
         "raw_title": "Kingston Fury Beast White RGB EXPO 32GB [2x16GB 5600MHz DDR5 CL36 DIMM]",
-        "fetched_at": "2026-06-26T14:10:21",
+        "fetched_at": "2026-06-26T14:43:46",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3778,7 +3755,7 @@
         "module_type": "dual",
         "image": "/img/300x/00b9d8/Q5F0J0A8T0N0i1V7T330Q8V0Q9p6K8V1.jpg",
         "raw_title": "PATRIOT DDR5 2x16GB 6400MHz CL32 Venom RGB KITDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3801,7 +3778,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/8/166965853385/925dcfe3768e695e7e6a5ab839e96285/lexar-p-ram-lexar-ares-2x32-d5-6400-cl32-blk,166965853385_7.webp",
         "raw_title": "Pamięć RAM Lexar Ares RGB DDR5 32GB (2 x 16GB) 6000 CL30 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3817,6 +3794,29 @@
         "spec_line": "32GB • 2x16GB • 6000MHz • CL30"
       },
       {
+        "shop": "komputronik",
+        "title": "Lexar Ares RGB 32GB [2x16GB 6000MHz DDR5 CL28 DIMM]",
+        "price": 2199.0,
+        "url": "https://www.komputronik.pl/product/951145/ram-lexar-ares-rgb-32gb-2x16gb-6000mhz-ddr5-cl28-dimm-.html",
+        "module_type": "dual",
+        "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C28BR-RGD-1.jpg",
+        "raw_title": "Lexar Ares RGB 32GB [2x16GB 6000MHz DDR5 CL28 DIMM]",
+        "fetched_at": "2026-06-26T14:43:46",
+        "specs": {
+          "capacity_gb": 32,
+          "modules": 2,
+          "module_size_gb": 16,
+          "speed_mhz": 6000,
+          "cl": 28,
+          "category": "32GB (2x16GB)"
+        },
+        "suspicious": false,
+        "warnings": [],
+        "price_formatted": "2 199,00 zł",
+        "category": "32GB (2x16GB)",
+        "spec_line": "32GB • 2x16GB • 6000MHz • CL28"
+      },
+      {
         "shop": "oleole",
         "title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 6400 CL32 EXPO Biały",
         "price": 2199.0,
@@ -3824,7 +3824,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/5/139930865657/d569a67a219b86e55e9ef10bf502ed42/kingston-pamiec-fury-beast-whit-32gb-6400-d5-2kit,139930865657_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 6400 CL32 EXPO Biały",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3847,7 +3847,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/2/pr_2022_2_2_12_37_28_128_00.jpg",
         "raw_title": "G.SKILL 32GB (2x16GB) 5600MHz CL36 Trident Z5 RGB",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3870,7 +3870,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/4/pr_2023_4_17_14_29_17_82_00.jpg",
         "raw_title": "Patriot 32GB (2x16GB) 6000MHz CL36 VIPER VENOM RGB",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3893,7 +3893,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/2/138017037393/ec83b4b64f526271ed25cf203466b1fb/goodram-pamiec-ram-goodr-2x16g-sr-dimm-6800-cl34,138017037393_7.webp",
         "raw_title": "Pamięć RAM GoodRam IRDM DDR5 32GB (2 x 16GB) 6800 CL34 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3916,7 +3916,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2021/10/pr_2021_10_29_8_56_21_646_02.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB) 6000MHz CL36 Beast Black",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3937,9 +3937,9 @@
         "price": 2239.0,
         "url": "https://www.x-kom.pl/p/1138986-pamiec-ram-ddr5-kingston-fury-32gb-2x16gb-5600mhz-cl36-beast-white-expo.html",
         "module_type": "dual",
-        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
+        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB) 5600MHz CL36 Beast White EXPO",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3962,7 +3962,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/2/173660553489/ef0edbbabdc0325fd73dc33e99bc1250/patriot-viper-elite-5-ultra-rgb-ddr5-32gb-2x16gb-cl28-czarny,173660553489_7.webp",
         "raw_title": "Pamięć RAM Patriot Viper Elite 5 Ultra RGB DDR5 32GB (2x16GB) 6000 CL28 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -3985,7 +3985,7 @@
         "module_type": "dual",
         "image": "/img/300x/779d01/D7P5r5d6C0I0U1G7p5F133I5h4t9r5C0.jpg",
         "raw_title": "GOODRAM DDR5 32GB 6000MHz CL36 2048x8DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4008,7 +4008,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/6/145217018689/183e98ad317380a1a0c2611cca0e8414/lexar-pamiec-lexar-ares-32g-ddr5-6400-cl32-rgb,145217018689_7.webp",
         "raw_title": "Pamięć RAM Lexar Ares RGB DDR5 32GB (2 x 16GB) 6400 CL32 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4031,7 +4031,7 @@
         "module_type": "dual",
         "image": "/img/300x/f27e4d/M640V3G300h0a1L6M8B7f9H1j243y361.jpg",
         "raw_title": "G.SKILL RIPJAWS SO-DIMM DDR5 2X16GB 5600MHZ CL40-4DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4054,7 +4054,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/5/184215222625/a6848265cf5942e74e99c9bc7a2a129/patriot-p-pam-viper-elite-d5-2x16-6000-cl30-w,184215222625_7.webp",
         "raw_title": "Pamięć RAM Patriot Viper Elite 5 RGB DDR5 32GB (2 x 16GB) 6000 CL30 Biały",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4077,7 +4077,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/6/176945567921/cb4458feb855c54601f824797a93e7f8/patriot-pamiec-ram-patriot-ddr5-2x16gb-6400-cl32,176945567921_7.webp",
         "raw_title": "Pamięć RAM Patriot Viper Elite 5 Ultra DDR5 32GB (2x16GB) 6400 CL32 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4100,7 +4100,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/6/126679545505/66ec89ed4c474598c20af7ffde82d097/g-skill-trident-z5-neo-rgb-ddr5-32gb-2-x-16gb-6000-cl30,126679545505_7.webp",
         "raw_title": "Pamięć RAM G.Skill Trident Z5 Neo RGB DDR5 32GB (2 x 16GB) 6000 CL30 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4123,7 +4123,7 @@
         "module_type": "dual",
         "image": "/img/300x/518eee/T9B364g2t0L0B1h753d3P5A1D6O9p0w7.jpg",
         "raw_title": "G.SKILL RIPJAWS M5 NEO AMD RGB DDR5 2X16GB 6000MHZDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4144,9 +4144,9 @@
         "price": 2339.0,
         "url": "https://www.x-kom.pl/p/719670-pamiec-ram-ddr5-gskill-32gb-2x16gb-6000mhz-cl36-trident-z5.html",
         "module_type": "dual",
-        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/2/pr_2022_2_2_12_4_0_902_00.jpg",
+        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/2/pr_2022_2_2_12_4_0_902_00.jpg",
         "raw_title": "G.SKILL 32GB (2x16GB) 6000MHz CL36 Trident Z5",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4167,9 +4167,9 @@
         "price": 2349.0,
         "url": "https://www.x-kom.pl/p/1353067-pamiec-ram-ddr5-kingston-fury-32gb-2x16gb-6000-cl30-beast-bialy.html",
         "module_type": "dual",
-        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_15_20_18_217_01.jpg",
+        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_25_15_20_18_217_01.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB) 6000 CL30 Beast Biały",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4192,7 +4192,7 @@
         "module_type": "dual",
         "image": "/img/300x/a15e90/R4M3w8C4r0N0T1o6D6z7w2h6h149d7M0.jpg",
         "raw_title": "G.SKILL RIPJAWS S5 DDR5 2X16GB 6000MHZ CL36-36 XMPDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4215,7 +4215,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/1/163467425257/cc97de69f425079785f44bef6fd00bfb/lexar-pam-lexar-ares-2x16-id5-6000-cl28-rgb-b,163467425257_7.webp",
         "raw_title": "Pamięć RAM Lexar Ares RGB Gen2 DDR5 32GB (2 x 16GB) 6000 CL28 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4238,7 +4238,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/1/pr_2022_1_7_13_10_7_257_03.jpg",
         "raw_title": "Corsair 32GB (2x16GB) 6000MHz CL36 Vengeance Intel XMP",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4261,7 +4261,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/3/pr_2023_3_6_15_13_18_988_00.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB) 6800MHz CL34 Beast Black EXPO",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4284,7 +4284,7 @@
         "module_type": "dual",
         "image": "/img/300x/afc63e/O0F1W1m69000I1b7Y368W1X9a7S5G2P9.jpg",
         "raw_title": "G.SKILL AEGIS 5 DDR5 2X16GB 6000MHZ CL36-36 XMP3 BDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4307,7 +4307,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/2/170676134385/c083152b5e49deed0df8479e2532858/g-skill-aegis-5-ddr5-32gb-2-x-16gb-6000-cl36,170676134385_7.webp",
         "raw_title": "Pamięć RAM G.Skill Aegis 5 DDR5 32GB (2 x 16GB) 6000 CL36",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4330,7 +4330,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/2/pr_2022_2_2_11_59_8_835_00.jpg",
         "raw_title": "G.SKILL 32GB (2x16GB) 5600MHz CL40 Ripjaws S5",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4351,9 +4351,9 @@
         "price": 2489.0,
         "url": "https://www.x-kom.pl/p/1291803-pamiec-ram-ddr5-kingston-fury-32gb-2x16gb-6000-cl36-fury-beast-white.html",
         "module_type": "dual",
-        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
+        "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB) 6000 CL36 FURY Beast White",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4376,7 +4376,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_28_11_41_39_183_00.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB) 6000 CL36 Beast RGB Biały",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4399,7 +4399,7 @@
         "module_type": "dual",
         "image": "/img/300x/a35d34/Q166i9U2p0T0e1g7j3R3B5a1L6l9Q0N4.jpg",
         "raw_title": "G.SKILL RIPJAWS M5 RGB DDR5 2X16GB 6000MHZ CL36-36DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4422,7 +4422,7 @@
         "module_type": "dual",
         "image": "/img/300x/b06d89/M4Z1e7r1K0f0n16762K2Q4H585q7j2t8.jpg",
         "raw_title": "Silicon Power XPOWER Pulse Gaming DDR5 32GB (2x16GB) 6000MHz CL30 1,35VDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4445,7 +4445,7 @@
         "module_type": "dual",
         "image": "/img/300x/257971/V7K5t3L680A0m1D6n6f7y2g6h1A7K1c8.jpg",
         "raw_title": "G.SKILL TRIDENT NEO AMD RGB DDR5 2X16GB 6000MHZ CLDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4468,7 +4468,7 @@
         "module_type": "dual",
         "image": "https://f00.osfr.pl/foto/5/126679541153/13f35bde18e402768677c10c1267a41f/kingston-fury-beast-rgb-ddr5-32gb-2-x-16gb-5600-cl36,126679541153_7.webp",
         "raw_title": "Pamięć RAM Kingston FURY Beast RGB DDR5 32GB (2 x 16GB) 5600 CL36 Czarny",
-        "fetched_at": "2026-06-26T14:11:05",
+        "fetched_at": "2026-06-26T14:44:27",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4491,7 +4491,7 @@
         "module_type": "dual",
         "image": "/img/300x/35a329/L1Z4K1d6E0d0b1H7L3W3D5F1n8T0y4j8.jpg",
         "raw_title": "ADATA XPG Lancer DDR5 RGB 32GB 6000MHz (2x16GB)DDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4514,7 +4514,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/8/pr_2023_8_3_13_7_52_603_00.jpg",
         "raw_title": "Lexar 32GB (2x16GB) 6800MHz Ares Gaming RGB",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4537,7 +4537,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2024/1/pr_2024_1_22_11_12_38_634_00.jpg",
         "raw_title": "G.SKILL 32GB (2x16GB) 6400MHz CL32 Trident Z5 RGB",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4560,7 +4560,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/8/pr_2022_8_11_11_23_15_994_00.jpg",
         "raw_title": "Kingston FURY 32GB (2x16GB) 6400MHz CL32 Renegade Silver",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4583,7 +4583,7 @@
         "module_type": "dual",
         "image": "/img/300x/85ac01/J4J2Z8p8K0o0Q1f753h3r4R3u3u8l1P0.jpg",
         "raw_title": "G.SKILL TRIDENT NEO AMD RGB DDR5 2X16GB 6400MHZ CLDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4606,7 +4606,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/7/pr_2025_7_17_15_12_45_135_00.jpg",
         "raw_title": "Patriot 32GB (2x16GB) 6000 CL28 VIPER RGB Elite 5 Ultra",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4629,7 +4629,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_9_15_20_47_689_00.jpg",
         "raw_title": "GOODRAM 32GB (2x16GB) 7600 CL36 IRDM BLACK V SILVER",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4652,7 +4652,7 @@
         "module_type": "dual",
         "image": "/img/300x/526a4e/U5I6C1j5t0P0R1C7W3d33501W5g303y4.jpg",
         "raw_title": "G.SKILL TRIDENT Z5 ROYAL RGB DDR5 2X16GB 6000MHZ CDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4675,7 +4675,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/7/pr_2023_7_24_16_41_3_25_02.jpg",
         "raw_title": "Patriot 32GB (2x16GB) 7600MHz CL36 Viper RGB XTREME 5",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4698,7 +4698,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/7/pr_2025_7_21_12_59_11_885_00.jpg",
         "raw_title": "Silicon Power 32GB (2x16GB) 6000 CL30 XPOWER Pulse",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4721,7 +4721,7 @@
         "module_type": "dual",
         "image": "/img/300x/5c04a4/R306j689V0O0R1e7E31344Y330x965M1.jpg",
         "raw_title": "G.SKILL TRIDENT Z5 ROYAL RGB DDR5 2X16GB 8000MHZ CL38 NEO F5-8000J3848H16GX2-TR5NSDDR5 / 32 GB / 2 x 16 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 32,
           "modules": 2,
@@ -4746,7 +4746,7 @@
         "module_type": "dual",
         "image": "https://images.morele.net/i256/13273548_0_i256.jpg",
         "raw_title": "Pamięć G.Skill Trident Z5 RGB, DDR5, 48 GB, 7200MHz, CL36 (F5-7200J3646F24GX2-TZ5RW)",
-        "fetched_at": "2026-06-26T14:09:19",
+        "fetched_at": "2026-06-26T14:42:41",
         "specs": {
           "capacity_gb": 48,
           "modules": 2,
@@ -4769,7 +4769,7 @@
         "module_type": "dual",
         "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/5/pr_2022_5_10_13_4_4_266_01.jpg",
         "raw_title": "Patriot 48GB (2x24GB) 6400 CL30 Viper VENOM",
-        "fetched_at": "2026-06-26T14:08:57",
+        "fetched_at": "2026-06-26T14:42:19",
         "specs": {
           "capacity_gb": 48,
           "modules": 2,
@@ -4794,7 +4794,7 @@
         "module_type": "dual",
         "image": "/img/300x/d71eb9/V1K7w8s690n0A1M7k7n0F3x6b148i2I4.jpg",
         "raw_title": "GOODRAM DDR5 64GB (2x32GB) 5600MHz CL36 2048Mx8DDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4817,7 +4817,7 @@
         "module_type": "dual",
         "image": "/img/300x/d345a6/29K7x328Y0X0p1k7E1c7C448v7H0N5m4.jpg",
         "raw_title": "GOODRAM DDR5 64GB DCKit 6000MHz IRDM Black V SilverDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4840,7 +4840,7 @@
         "module_type": "dual",
         "image": "/img/300x/9c4bbe/C0W407a8l0y05187I0x171t7E7D8o604.jpg",
         "raw_title": "GOODRAM DDR5 64GB 6400MHz CL32 2048x8DDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4863,7 +4863,7 @@
         "module_type": "dual",
         "image": "/img/300x/4caea6/X0I7A7l7s010E1T7W3W0h820O9r2A5r6.jpg",
         "raw_title": "Pamięć DDR5 PATRIOT Viper Venom 2x32GB 6400MHz CL32 XMP3 (PVV564G640C32K)DDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4886,7 +4886,7 @@
         "module_type": "dual",
         "image": "/img/300x/5667d3/O6H555s4D0Y021z7Y5Q7z5Z1K055K8v1.jpg",
         "raw_title": "Patriot Viper Elite5 Ultra DDR5 2x32GB 6000MHz CL28DDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4909,7 +4909,7 @@
         "module_type": "dual",
         "image": "/img/300x/a09b68/47W8n0c510C0Z1S7o3G8w1n9C7R3v1L6.jpg",
         "raw_title": "G.SKILL AEGIS 5 DDR5 2X32GB 5600MHZ CL36-36 XMP3 BDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4932,7 +4932,7 @@
         "module_type": "dual",
         "image": "/img/300x/258b82/Y4K8g8P5B030r1k773t8g1B9L6g5E8M3.jpg",
         "raw_title": "G.SKILL AEGIS 5 DDR5 2X32GB 6000MHZ CL36-36 XMP3 BDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4955,7 +4955,7 @@
         "module_type": "dual",
         "image": "/img/300x/02fc48/B3W3z0v2W0N0L1v7S3S811r9U7Q3r1F0.jpg",
         "raw_title": "G.SKILL FLARE X5 AMD DDR5 2X32GB 6000MHZ CL36-36 EDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -4978,7 +4978,7 @@
         "module_type": "dual",
         "image": "/img/300x/8a5af5/B0L6G1E5u0J041d783R058D0g8I764I9.jpg",
         "raw_title": "Patriot Viper Venom RGB DDR5 2x32GB 6000MHz CL30 XMP3DDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -5001,7 +5001,7 @@
         "module_type": "dual",
         "image": "/img/300x/1c301b/N832S3Z4f0A021l7v1Q5L169s6T1w242.jpg",
         "raw_title": "G.SKILL RIPJAWS S5 DDR5 2X32GB 6000MHZ CL30 XMP3 BDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -5024,7 +5024,7 @@
         "module_type": "dual",
         "image": "/img/300x/8ed1c8/92I2J1g7V0i001j7L1s5n1q9g541d8A7.jpg",
         "raw_title": "G.SKILL TRIDENT Z5 RGB DDR5 2X32GB 6000MHZ CL30 XMDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -5047,7 +5047,7 @@
         "module_type": "dual",
         "image": "/img/300x/8acad6/N4I6X7r8e0I0G1I6j6M7c2R6g1S9d441.jpg",
         "raw_title": "G.SKILL TRIDENT Z5 RGB DDR5 2X32GB 6400MHZ CL32 XMDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -5070,7 +5070,7 @@
         "module_type": "dual",
         "image": "/img/300x/3fdc31/36369501y0Q0c1Q753M3k4d3u4S5y6Z1.jpg",
         "raw_title": "G.SKILL TRIDENT NEO AMD RGB DDR5 2X32GB 6000MHZ CLDDR5 / 64 GB / 2 x 32 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 64,
           "modules": 2,
@@ -5095,7 +5095,7 @@
         "module_type": "dual",
         "image": "/img/300x/b3a8c0/M893u297s0A0U1P7L5U7O570a8U520N1.jpg",
         "raw_title": "Patriot Viper Elite5 Ultra DDR5 2x48GB 6400MHz CL32DDR5 / 96 GB / 2 x 48 GB",
-        "fetched_at": "2026-06-26T14:09:50",
+        "fetched_at": "2026-06-26T14:43:14",
         "specs": {
           "capacity_gb": 96,
           "modules": 2,
@@ -5121,7 +5121,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RDMD16GSD55600-SB-1.jpg",
       "raw_title": "PNY 16GB [1x16GB 5600MHz DDR5 CL40 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5144,7 +5144,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMIR5600D564L36S16G-1.jpg",
       "raw_title": "GOODRAM IRDM 16GB [1x16GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5167,7 +5167,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/15238606_0_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM, DDR5, 16 GB, 5600MHz, CL36 (IRDM DDR5 R-5600D564L36S/16G)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5190,7 +5190,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14221890_1_i256.jpg",
       "raw_title": "Pamięć PNY XLR8 RGB, DDR5, 16 GB, 6000MHz, CL36 (MD16GD5600036RGB-BLK)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5213,7 +5213,7 @@
       "module_type": "single",
       "image": "/img/300x/c584b2/K0R415p9h0a0b1l6r8p9f7M5X8R4J4i4.jpg",
       "raw_title": "PATRIOT DDR5 16GB PRENIUM BLACK 5600MHz DDR5 / 16 GB / 1 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5236,7 +5236,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/15568523_1_i256.jpg",
       "raw_title": "Pamięć PNY Performance, DDR5, 16 GB, 5600MHz, CL40 (MD16GSD55600-SB)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5259,7 +5259,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BB-16-1.jpg",
       "raw_title": "Kingston Fury Beast Black 16GB [1x16GB 5600MHz DDR5 CL40 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5282,7 +5282,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14420748_1_i256.jpg",
       "raw_title": "Pamięć Origin Performance, DDR5, 16 GB, 5600MHz, CL40 (MD16GSD55600-BLK)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5305,7 +5305,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14221870_1_i256.jpg",
       "raw_title": "Pamięć PNY XLR8, DDR5, 16 GB, 6000MHz, CL36 (MD16GSD5600036XR-BLK)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5328,7 +5328,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14150517_0_i256.jpg",
       "raw_title": "Pamięć Patriot Viper Venom, DDR5, 16 GB, 6000MHz, CL36 (PVV516G60C30)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5351,7 +5351,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/9692603_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 5600MHz, CL40 (KF556C40BB-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5374,7 +5374,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/11811203_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 5600MHz, CL36 (KF556C36BBEA-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5397,7 +5397,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/12994066_2_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 5600MHz, CL36 (KF556C36BWEA-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5420,7 +5420,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/10589119_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 5600MHz, CL40 (KF556C40BBA-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5443,7 +5443,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE-16-1.jpg",
       "raw_title": "Kingston Fury Beast Black EXPO 16GB [1x16GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5466,7 +5466,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/11811202_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 5600MHz, CL36 (KF556C36BBE-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5489,7 +5489,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13221537_1_i256.jpg",
       "raw_title": "Pamięć Crucial Pro Overclocking, DDR5, 16 GB, 6000MHz, CL36 (CP16G60C36U5B)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5512,7 +5512,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/11044057_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Renegade, DDR5, 16 GB, 6400MHz, CL32 (KF564C32RS-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5535,7 +5535,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14013484_0_i256.jpg",
       "raw_title": "Pamięć Kingston Beast, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BWE2-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5558,7 +5558,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14012413_0_i256.jpg",
       "raw_title": "Pamięć Kingston Beast, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BBE2-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5581,7 +5581,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14508004_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Aegis 5, DDR5, 16 GB, 5600MHz, CL36 (F5-5600J3636C16GX1-IS)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5604,7 +5604,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13235863_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 6400MHz, CL32 (KF564C32BWE-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5627,7 +5627,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14218279_1_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BWE2A-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5650,7 +5650,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBEA-16-1.jpg",
       "raw_title": "Kingston Fury Beast Black RGB EXPO AMD 16GB [1x16GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5673,7 +5673,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BBA-16-1.jpg",
       "raw_title": "Kingston Fury Beast RGB 16GB [1x16GB 5600MHz DDR5 CL40 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5696,7 +5696,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13239960_1_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BWEA-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5719,7 +5719,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13215279_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BBEA-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5742,7 +5742,7 @@
       "module_type": "single",
       "image": "/img/300x/5c2c9b/H4O812K3o0t0k1c7w3I881Z9z7R4z9l5.jpg",
       "raw_title": "G.SKILL AEGIS 5 DDR5 16GB 5600MHZ CL36-36 XMP3 BLADDR5 / 16 GB / 1 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5765,7 +5765,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/1/163090242329/b567da33a6a8b8d774beaed5c1e0741a/goodram-pamiec-ram-goodr-1x16-5600-sr-cl36-b-s,163090242329_7.webp",
       "raw_title": "Pamięć RAM GoodRam IRDM DDR5 16GB 5600 CL36 Czarny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5788,7 +5788,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_15_14_109_00.jpg",
       "raw_title": "Kingston FURY 16GB (1x16GB) 5600MHz CL36 Beast RGB EXPO AMD",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5811,7 +5811,7 @@
       "module_type": "single",
       "image": "/img/300x/a80c68/Q9U2w9R9v0w031M7G328S1H9u7C5I565.jpg",
       "raw_title": "G.SKILL AEGIS 5 DDR5 16GB 6000MHZ CL36-36 XMP3 BLADDR5 / 16 GB / 1 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5834,7 +5834,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13235862_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 6400MHz, CL32 (KF564C32BBE-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5857,7 +5857,7 @@
       "module_type": "single",
       "image": "/img/300x/4791ec/L8J6e9h1q0P08127h7r0Q693h2h4G5y2.jpg",
       "raw_title": "GOODRAM DDR5 16GB CL36 2048Mx8 IRDMDDR5 / 16 GB / 1 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5880,7 +5880,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13239660_0_i256.jpg",
       "raw_title": "Pamięć Kingston Beast, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BWE-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5903,7 +5903,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/8/pr_2022_8_11_11_37_11_206_00.jpg",
       "raw_title": "Kingston FURY 16GB (1x16GB) 6400MHz CL32 Renegade Silver",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5926,7 +5926,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13215275_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast, DDR5, 16 GB, 6000MHz, CL30 (KF560C30BBE-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5949,7 +5949,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/15666495_0_i256.jpg",
       "raw_title": "Pamięć Corsair Vengeance, DDR5, 16 GB, 6000MHz, CL36 (CMK16GX5M1E6000Z36)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5972,7 +5972,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_12_1_42_388_00.jpg",
       "raw_title": "Kingston FURY 16GB (1x16GB) 6000 CL36 Beast Czarny",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -5995,7 +5995,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_25_12_56_37_3_00.jpg",
       "raw_title": "Patriot 16GB (1x16GB) 6000 CL30 Viper VENOM",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6018,7 +6018,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_14_56_32_578_00.jpg",
       "raw_title": "Kingston FURY 16GB (1x16GB) 6000 CL30 Beast Biały",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6041,7 +6041,7 @@
       "module_type": "single",
       "image": "/img/300x/8a6696/88E9z0K3m0s0f1r6X9p7w731i4H2K5d2.jpg",
       "raw_title": "Samsung SO-DIMM 16GB DDR5 1Rx8 5600MHz PC5-44800 M425R2GA3BB0-CWMDDR5 / 16 GB / 1 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6064,7 +6064,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14012428_3_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast RGB, DDR5, 16 GB, 6000MHz, CL36 (KF560C36BBE2A-16)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6087,7 +6087,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/13269673_0_i256.jpg",
       "raw_title": "Pamięć ADATA XPG Lancer Blade, DDR5, 16 GB, 6000MHz, CL30 (AX5U6000C3016G-SLABBK)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6110,7 +6110,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/14508008_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Aegis 5, DDR5, 16 GB, 6000MHz, CL36 (F5-6000J3636F16GX1-IS)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6133,7 +6133,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/3/154699450585/76fe94a04b2e6ea4e02b506e537d02b5/kingston-pam-ram-king-fury-b-16-ddr5-cl36-6000-bk,154699450585_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 16GB 6000 CL36 Czarny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6156,7 +6156,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RDIR8000D564L36S16G-1.jpg",
       "raw_title": "GOODRAM IRDM 16GB [1x16GB 8000MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6179,7 +6179,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/15837023_0_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM, DDR5, 16 GB, 8000MHz, CL36 (IR-8000D564L36S/16G)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6202,7 +6202,7 @@
       "module_type": "single",
       "image": "https://images.morele.net/i256/15238618_0_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 5600MHz, CL36 (IRDM DDR5 IR-5600D564L36/32G)",
-      "fetched_at": "2026-06-26T14:09:08",
+      "fetched_at": "2026-06-26T14:42:31",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -6225,7 +6225,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/14795677_2_i256.jpg",
       "raw_title": "Pamięć ADATA XPG Lancer Blade RGB, DDR5, 32 GB, 6000MHz, CL36 (AX5U6000C3616G-DTLABRBK)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6248,7 +6248,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13121355_0_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 6400MHz, CL32 (IR-6400D564L32S/32GDC)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6271,7 +6271,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE2-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black 32GB [1x32GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -6294,7 +6294,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_21_14_10_7_422_02.jpg",
       "raw_title": "GOODRAM 16GB(1x16GB) 8000 CL36 IRDM Black",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -6317,7 +6317,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_22_9_24_53_830_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 5600 CL36 IRDM",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6340,7 +6340,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/14982458_0_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 6000MHz, CL36 (IR-6000D564L36S/32GDC)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6363,7 +6363,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/7/138017114577/dfae36479300c1b0abc65bf11a44f11e/patriot-pamiec-ram-patr-viper-venom-6400-2x16gb,138017114577_7.webp",
       "raw_title": "Pamięć RAM Patriot Viper Venom DDR5 32GB (2 x 16GB) 6400 CL32 Szary",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6386,7 +6386,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_9_15_20_47_689_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 6000 CL36 IRDM BLACK V SILVER",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6409,7 +6409,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_22_9_24_53_830_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 6400MHz CL32 IRDM BLACK V SILVER",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6432,7 +6432,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/15758890_0_i256.jpg",
       "raw_title": "Pamięć Apacer Pamięć DDR5 Apacer Panther 32GB (2x16GB) 6000MHz CL38 1,35V HS",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6455,7 +6455,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/14625084_1_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 5600MHz, CL36 (IR-5600D564L36S/32GDC)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6478,7 +6478,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13115327_6_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM, DDR5, 32 GB, 6000MHz, CL30 (IR-6000D564L30S/32GDC)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6501,7 +6501,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/12462379_3_i256.jpg",
       "raw_title": "Pamięć Patriot Viper Venom, DDR5, 32 GB, 6000MHz, CL36 (PVV532G600C36K)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6524,7 +6524,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13273548_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Trident Z5 RGB, DDR5, 48 GB, 7200MHz, CL36 (F5-7200J3646F24GX2-TZ5RW)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 48,
         "modules": 2,
@@ -6547,7 +6547,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/4/153098973889/dfae36479300c1b0abc65bf11a44f11e/patriot-pamiec-ram-patr-venom-32gb-ddr5-6000mts,153098973889_7.webp",
       "raw_title": "Pamięć RAM Patriot Viper Venom DDR5 32GB (2 x 16GB) 6000 CL30 Szary",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6570,7 +6570,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_22_8_53_46_748_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 6000MHz CL30 IRDM BLACK V SILVER",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6593,7 +6593,7 @@
       "module_type": "dual",
       "image": "/img/300x/11ea33/Z0S7m7o960W0K1l7I0j1z1t7d882q4w8.jpg",
       "raw_title": "GOODRAM DDR5 32GB 6000MHz CL30 2048x8DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6616,7 +6616,7 @@
       "module_type": "dual",
       "image": "/img/300x/fbb8f5/Z2U4Y5d9r0z0Z1a7B0R1h3P7T3C1z3W5.jpg",
       "raw_title": "GOODRAM DDR5 32GB 6400MHz CL32 2048x8DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6639,7 +6639,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE2A-32-1.jpg",
       "raw_title": "Kingston Fury Beast RGB 32GB [1x32GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -6662,7 +6662,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/7/153099324329/d8be4223e8f2d4de84b180e7c96a3a3b/patriot-pamiec-ram-patr-venom-32g-ddr5-6000-rgb,153099324329_7.webp",
       "raw_title": "Pamięć RAM Patriot Viper Venom RGB DDR5 32GB (2 x 16GB) 6000 CL30 Szary",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6685,7 +6685,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C380V-RGD-1.jpg",
       "raw_title": "Lexar Thor 32GB [2x16GB 6000MHz DDR5 CL38 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6708,7 +6708,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/12733804_0_i256.jpg",
       "raw_title": "Pamięć Patriot Viper Venom, DDR5, 32 GB, 6400MHz, CL32 (PVV532G640C32K)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6731,7 +6731,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMIR-6000D564L30S32GDC-1.jpg",
       "raw_title": "GOODRAM IRDM 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6754,7 +6754,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMIR-6400D564L32S32GDC-1.jpg",
       "raw_title": "GOODRAM IRDM 32GB [2x16GB 6400MHz DDR5 CL32 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6777,7 +6777,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/3/154327377841/a2bb4e9307f5e60c697b72e24c474d57/kingston-fury-beast-ddr5-32gb-5600-cl40-czarny,154327377841_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB 5600 CL40 Czarny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -6800,7 +6800,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/12733799_0_i256.jpg",
       "raw_title": "Pamięć Patriot Viper Venom, DDR5, 32 GB, 7000MHz, CL32 (PVV532G700C32K)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6823,7 +6823,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/7/139930868057/76fe94a04b2e6ea4e02b506e537d02b5/kingston-pamiec-fury-beast-blac-32gb-6400-d5_1,139930868057_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB 6400 CL32 EXPO Czarny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -6846,7 +6846,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/7/138017061161/dfae36479300c1b0abc65bf11a44f11e/patriot-pamiec-ram-patr-viper-venom-6000-2x16gb,138017061161_7.webp",
       "raw_title": "Pamięć RAM Patriot Viper Venom DDR5 32GB (2 x 16GB) 6000 CL36 Szary",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6869,7 +6869,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/5/pr_2022_5_10_13_4_4_266_01.jpg",
       "raw_title": "Patriot 32GB (2x16GB) 7200MHz CL34 VIPER VENOM",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6892,7 +6892,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMIRG-60D5L30S32GDC-1.jpg",
       "raw_title": "GOODRAM IRDM RGB 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6915,7 +6915,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/9/pr_2023_9_21_14_10_4_212_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 6800MHz CL34 IRDM BLACK V SILVER",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6938,7 +6938,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13155417_6_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM RGB, DDR5, 32 GB, 6000MHz, CL30 (IRG-60D5L30S/32GDC)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6961,7 +6961,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMAX5U6000C3616G-DTLABRBK-1.jpg",
       "raw_title": "Adata XPG Lancer Blade RGB 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -6984,7 +6984,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBE-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black EXPO 32GB [1x32GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -7007,7 +7007,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_8_23_316_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 5600MHz CL36 Beast Black EXPO",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -7030,7 +7030,7 @@
       "module_type": "dual",
       "image": "/img/300x/0b331a/M0U0k7E0h0A0T1i7j3q0O8m0y9y260A3.jpg",
       "raw_title": "PATRIOT DDR5 Viper Venom 2x16GB 6400MHz CL32 XMP3DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7053,7 +7053,7 @@
       "module_type": "dual",
       "image": "/img/300x/615e8f/15A2k7u0r0c0a1g7r310C8O0S993e5D4.jpg",
       "raw_title": "Patrot Viper Venom DDR5 32GB KIT 6000MTsDDR5 / 32 GB / 2 x 16 GB / CL",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7076,7 +7076,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13216338_0_i256.jpg",
       "raw_title": "Pamięć Lexar Ares, DDR5, 32 GB, 6000MHz, CL32 (LD5U16G60C320A-RGD)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7099,7 +7099,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/600016103_0_i256.jpg",
       "raw_title": "Pamięć AGI Technology UD858 TurboJet, DDR5, 32 GB, 6000MHz, CL30 (AGI6AWT16UD858-DR)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7122,7 +7122,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/7/121794087297/150b5b4cddca620830004a9dbcadd2bf/kingston-pami-pc-king-ddr5-fury32gb2x165600bk,121794087297_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 5600 CL36 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7145,7 +7145,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C30BR-RGD-1.jpg",
       "raw_title": "Lexar Ares RGB 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7168,7 +7168,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/9678869_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast, DDR5, 32 GB, 5600MHz, CL40 (KF556C40BBK2-32)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7191,7 +7191,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/15394172_9_i256.jpg",
       "raw_title": "Pamięć Lexar Ares RGB Gen2, DDR5, 32 GB, 6000MHz, CL30 (LD5U16G60C30BR-RGD)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7214,7 +7214,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/15600779_1_i256.jpg",
       "raw_title": "Pamięć Lexar Ares, DDR5, 32 GB, 6000MHz, CL30 (LD5U16G60C300A-RGD)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7237,7 +7237,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/7/121794504377/150b5b4cddca620830004a9dbcadd2bf/kingston-pami-pc-king-ddr5-fury32gb2x165600bk_1,121794504377_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 5600 CL40 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7260,7 +7260,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_8_23_316_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 6000MHz CL36 Beast Black EXPO",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -7283,7 +7283,7 @@
       "module_type": "dual",
       "image": "/img/300x/02bef4/R8O6z46400f0U1U6k718H9E6A0e4X0i9.jpg",
       "raw_title": "PATRIOT DDR5 2x16GB VIPER VENOM 5600MHz CL36DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7306,7 +7306,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13992066_0_i256.jpg",
       "raw_title": "Pamięć Kingston Beast, DDR5, 32 GB, 6000MHz, CL36 (KF560C36BBE2K2-32)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7329,7 +7329,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/11892219_0_i256.jpg",
       "raw_title": "Pamięć Kingston Fury Beast, DDR5, 32 GB, 5600MHz, CL36 (KF556C36BBEK2-32)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7352,7 +7352,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/9776324_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Trident Z5 RGB, DDR5, 32 GB, 5600MHz, CL36 (F5-5600J3636C16GX2-TZ5RS)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7375,7 +7375,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMPVV532G600C36K-1.jpg",
       "raw_title": "Patriot Viper Venom 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7398,7 +7398,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13245763_1_i256.jpg",
       "raw_title": "Pamięć Patriot Viper Venom RGB, DDR5, 32 GB, 6000MHz, CL30 (PVVR532G600C30K)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7421,7 +7421,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/15498937_0_i256.jpg",
       "raw_title": "Pamięć Patriot Viper Elite 5 RGB, DDR5, 32 GB, 6000MHz, CL30 (PVER532G60C30KW)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7444,7 +7444,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/14508014_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Aegis 5, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2-IS)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7467,7 +7467,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/9705286_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Trident Z5 RGB, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2- TZ5RS)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7490,7 +7490,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/9778762_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Trident Z5, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2-TZ5K)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7513,7 +7513,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13188230_0_i256.jpg",
       "raw_title": "Pamięć ADATA XPG Lancer Blade, DDR5, 32 GB, 6400MHz, CL32 (AX5U6400C3216G-DTLABBK)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7536,7 +7536,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C320A-RGD-1.jpg",
       "raw_title": "Lexar Ares Gaming 32GB [2x16GB 6000MHz DDR5 CL32 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7559,7 +7559,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_9_15_20_47_689_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 7200 CL34 IRDM BLACK V SILVER",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7582,7 +7582,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/15238704_3_i256.jpg",
       "raw_title": "Pamięć Patriot Viper Elite 5 RGB Ultra, DDR5, 32 GB, 6000MHz, CL28 (VEUR532G6028K)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7605,7 +7605,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBEK2-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black EXPO AMD 32GB [2x16GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7628,7 +7628,7 @@
       "module_type": "dual",
       "image": "/img/300x/ce9d25/32A9i2r0O0L0Y1D7n1s5N0q7R734n8p2.jpg",
       "raw_title": "GOODRAM DDR5 32GB DCKit 6800MHz IRDM Black V SilverDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7651,7 +7651,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMCP2K16G60C36U5B_WYP2-1.jpg",
       "raw_title": "Crucial Pro Overclocking 32GB [2x16GB 6000MHz DDR5 CL36 UDIMM] [oferta Outlet]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7674,7 +7674,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BBK2-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black 32GB [2x16GB 5600MHz DDR5 CL40 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7697,7 +7697,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2024/1/pr_2024_1_24_12_40_18_487_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 6000MHz CL30 IRDM RGB",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7720,7 +7720,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMPVV532G600C30K-1.jpg",
       "raw_title": "Patriot Viper Venom 32GB [2x16GB 6000MHz DDR5 CL30 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7743,7 +7743,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/13155418_6_i256.jpg",
       "raw_title": "Pamięć GoodRam IRDM RGB, DDR5, 32 GB, 6400MHz, CL32 (IRG-64D5L32S/32GDC)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7766,7 +7766,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/12318281_1_i256.jpg",
       "raw_title": "Pamięć G.Skill Flare X5, DDR5, 32 GB, 5600MHz, CL36 (F5-5600J3636C16GX2-FX5)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7789,7 +7789,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/14221479_1_i256.jpg",
       "raw_title": "Pamięć Corsair Vengeance, DDR5, 32 GB, 6000MHz, CL38 (CMK32GX5M2B6000C38)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7812,7 +7812,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/5/139930875465/adc0b4f7d744409a199598e70164ef2e/kingston-pamiec-fury-beast-blac-32gb-6000-d5-2kit,139930875465_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 6000 CL30 EXPO Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7835,7 +7835,7 @@
       "module_type": "dual",
       "image": "https://images.morele.net/i256/11875278_0_i256.jpg",
       "raw_title": "Pamięć G.Skill Flare X5, DDR5, 32 GB, 6000MHz, CL36 (F5-6000J3636F16GX2-FX5)",
-      "fetched_at": "2026-06-26T14:09:19",
+      "fetched_at": "2026-06-26T14:42:41",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7858,7 +7858,7 @@
       "module_type": "dual",
       "image": "/img/300x/308e64/J637L0I8Y0A0n1t677H829y6x0E46556.jpg",
       "raw_title": "PATRIOT DDR5 2x16GB VIPER VENOM 6000MHz CL36DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7881,7 +7881,7 @@
       "module_type": "dual",
       "image": "/img/300x/15cef1/Z423X7p730m0I1T698I9a7r5K8t6G7C0.jpg",
       "raw_title": "PATRIOT DDR5 2x16GB 5600MHz SIGNATURE PREMIUM KITDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7904,7 +7904,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMPVV532G640C32K-1.jpg",
       "raw_title": "Patriot Viper Venom 32GB [2x16GB 6400MHz DDR5 CL32 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7927,7 +7927,7 @@
       "module_type": "dual",
       "image": "/img/300x/905970/45I3j2N6B0O0z1g77320E850H9b15716.jpg",
       "raw_title": "PATRIOT DDR5 2x16GB VIPER VENOM 7000MHz CL32DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7950,7 +7950,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BBEAK2-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black RGB EXPO 32GB [2x16GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7973,7 +7973,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/9/138017134489/ec83b4b64f526271ed25cf203466b1fb/goodram-pamiec-ram-goodr-2x16g-sr-dimm-6000-cl30,138017134489_7.webp",
       "raw_title": "Pamięć RAM GoodRam IRDM DDR5 32GB (2 x 16GB) 6000 CL30 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -7996,7 +7996,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/3/126679551625/76fe94a04b2e6ea4e02b506e537d02b5/kingston-fury-beast-ddr5-16gb-5600-cl36,126679551625_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 16GB 5600 CL36 Czarny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -8019,7 +8019,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMCP2K16G60C36U5B-1.jpg",
       "raw_title": "Crucial Pro Overclocking 32GB [2x16GB 6000MHz DDR5 CL36 UDIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8042,7 +8042,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BBAK2-32-1.jpg",
       "raw_title": "Kingston Fury Beast RGB 32GB [2x16GB 5600MHz DDR5 CL40 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8065,7 +8065,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/9/163718072017/fff7ac89d889a0393ae263d004d9a23/silicon-power-xpower-pulse-ddr5-32gb-6000-cl38,163718072017_7.webp",
       "raw_title": "Pamięć RAM Silicon Power XPOWER Pulse DDR5 32GB 6000 CL38",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -8088,7 +8088,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/11/pr_2023_11_21_10_35_50_118_00.jpg",
       "raw_title": "G.SKILL 32GB (2x16GB) 6000MHz CL36 Flare X5 AMD EXPO",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8111,7 +8111,7 @@
       "module_type": "dual",
       "image": "/img/300x/ad4695/S8I0K5S8W0T0c1N763Y0Z8X0c8N6k0J9.jpg",
       "raw_title": "Patriot Viper Venom RGB DDR5 2x16GB 6000MHz CL30 XMP3DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8128,36 +8128,13 @@
     },
     {
       "shop": "komputronik",
-      "title": "Patriot Viper Venom RGB 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-      "price": 2044.0,
-      "url": "https://www.komputronik.pl/product/832881/patriot-viper-venom-rgb-32gb-2x16gb-6000mhz-ddr5-cl36-dimm-.html",
-      "module_type": "dual",
-      "image": "https://static.komputronik.pl/product-picture/5/RAMPVVR532G600C36K-1.jpg",
-      "raw_title": "Patriot Viper Venom RGB 32GB [2x16GB 6000MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
-      "specs": {
-        "capacity_gb": 32,
-        "modules": 2,
-        "module_size_gb": 16,
-        "speed_mhz": 6000,
-        "cl": 36,
-        "category": "32GB (2x16GB)"
-      },
-      "suspicious": false,
-      "warnings": [],
-      "price_formatted": "2 044,00 zł",
-      "category": "32GB (2x16GB)",
-      "spec_line": "32GB • 2x16GB • 6000MHz • CL36"
-    },
-    {
-      "shop": "komputronik",
       "title": "GOODRAM IRDM 32GB [2x16GB 8000MHz DDR5 CL36 DIMM]",
       "price": 2045.07,
       "url": "https://www.komputronik.pl/product/1016784/goodram-irdm-32gb-2x16gb-8000mhz-ddr5-cl36-dimm-.html",
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/IR-8000D564L36S32GDC-1.jpg",
       "raw_title": "GOODRAM IRDM 32GB [2x16GB 8000MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8180,7 +8157,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMIRG-64D5L32S32GDC-1.jpg",
       "raw_title": "GOODRAM IRDM RGB 32GB [2x16GB 6400MHz DDR5 CL32 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8203,7 +8180,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/9/pr_2022_9_13_13_15_14_109_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 5600MHz CL36 Beast RGB EXPO",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -8226,7 +8203,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/3/119789159961/4daf122cba153e087826212a2a24bba9/g-skill-g-skill-ddr5-6000-mt-s-2x16gbflare-x5amd,119789159961_7.webp",
       "raw_title": "Pamięć RAM G.Skill Flare X5 DDR5 32GB (2 x 16GB) 6000 CL36 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8249,7 +8226,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_11_56_56_982_00.jpg",
       "raw_title": "Kingston FURY 16GB (1x16GB) 6000 CL30 Beast Czarny",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -8272,7 +8249,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/5/156466449945/13f35bde18e402768677c10c1267a41f/kingston-pam-king-32-6000-d5-cl30-kof2-fury-rg-ex,156466449945_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast RGB DDR5 32GB (2 x 16GB) 6000 CL30 EXPO Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8295,7 +8272,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/2/121794088817/37f61590b92460ec54e5804c869a1e99/g-skill-pami-pc-g-skill-ddr5-32gb2x16rgb6400,121794088817_7.webp",
       "raw_title": "Pamięć RAM G.Skill Trident Z5 RGB DDR5 32GB (2 x 16GB) 6400 CL32 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8318,7 +8295,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_13_38_23_972_02.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB)/6000 CL36 Beast RGB Czarny",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8341,7 +8318,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2024/1/pr_2024_1_24_12_40_18_487_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 6400MHz CL32 IRDM RGB",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8364,7 +8341,7 @@
       "module_type": "dual",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C36BWEAK2-32-1.jpg",
       "raw_title": "Kingston Fury Beast White RGB EXPO 32GB [2x16GB 5600MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:21",
+      "fetched_at": "2026-06-26T14:43:46",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8387,7 +8364,7 @@
       "module_type": "single",
       "image": "/img/300x/a5a994/W4M8P9E9u0g0p1R7u179h5a6r056Y9C0.jpg",
       "raw_title": "Samsung SO-DIMM 32GB DDR5 2Rx8 5600MHz PC5-44800 M425R4GA3BB0-CWMDDR5 / 32 GB / 1 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -8410,7 +8387,7 @@
       "module_type": "dual",
       "image": "/img/300x/00b9d8/Q5F0J0A8T0N0i1V7T330Q8V0Q9p6K8V1.jpg",
       "raw_title": "PATRIOT DDR5 2x16GB 6400MHz CL32 Venom RGB KITDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8433,7 +8410,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/8/166965853385/925dcfe3768e695e7e6a5ab839e96285/lexar-p-ram-lexar-ares-2x32-d5-6400-cl32-blk,166965853385_7.webp",
       "raw_title": "Pamięć RAM Lexar Ares RGB DDR5 32GB (2 x 16GB) 6000 CL30 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8456,7 +8433,7 @@
       "module_type": "single",
       "image": "/img/300x/8f0a36/W3X1X6V5Q030f1g7A3z8w1g9A7F3E1b3.jpg",
       "raw_title": "G.SKILL AEGIS 5 DDR5 32GB 6000MHZ CL36-36 XMP3 BLADDR5 / 32 GB / 1 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -8472,6 +8449,29 @@
       "spec_line": "32GB • 1x32GB • 6000MHz • CL36"
     },
     {
+      "shop": "komputronik",
+      "title": "Lexar Ares RGB 32GB [2x16GB 6000MHz DDR5 CL28 DIMM]",
+      "price": 2199.0,
+      "url": "https://www.komputronik.pl/product/951145/ram-lexar-ares-rgb-32gb-2x16gb-6000mhz-ddr5-cl28-dimm-.html",
+      "module_type": "dual",
+      "image": "https://static.komputronik.pl/product-picture/5/RAMLD5U16G60C28BR-RGD-1.jpg",
+      "raw_title": "Lexar Ares RGB 32GB [2x16GB 6000MHz DDR5 CL28 DIMM]",
+      "fetched_at": "2026-06-26T14:43:46",
+      "specs": {
+        "capacity_gb": 32,
+        "modules": 2,
+        "module_size_gb": 16,
+        "speed_mhz": 6000,
+        "cl": 28,
+        "category": "32GB (2x16GB)"
+      },
+      "suspicious": false,
+      "warnings": [],
+      "price_formatted": "2 199,00 zł",
+      "category": "32GB (2x16GB)",
+      "spec_line": "32GB • 2x16GB • 6000MHz • CL28"
+    },
+    {
       "shop": "oleole",
       "title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 6400 CL32 EXPO Biały",
       "price": 2199.0,
@@ -8479,7 +8479,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/5/139930865657/d569a67a219b86e55e9ef10bf502ed42/kingston-pamiec-fury-beast-whit-32gb-6400-d5-2kit,139930865657_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB (2 x 16GB) 6400 CL32 EXPO Biały",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8502,7 +8502,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/2/pr_2022_2_2_12_37_28_128_00.jpg",
       "raw_title": "G.SKILL 32GB (2x16GB) 5600MHz CL36 Trident Z5 RGB",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8525,7 +8525,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_13_25_55_90_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL36 Beast RGB Czarny",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -8548,7 +8548,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/4/pr_2023_4_17_14_29_17_82_00.jpg",
       "raw_title": "Patriot 32GB (2x16GB) 6000MHz CL36 VIPER VENOM RGB",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8571,7 +8571,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/2/138017037393/ec83b4b64f526271ed25cf203466b1fb/goodram-pamiec-ram-goodr-2x16g-sr-dimm-6800-cl34,138017037393_7.webp",
       "raw_title": "Pamięć RAM GoodRam IRDM DDR5 32GB (2 x 16GB) 6800 CL34 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8594,7 +8594,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2021/10/pr_2021_10_29_8_56_21_646_02.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB) 6000MHz CL36 Beast Black",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8615,9 +8615,9 @@
       "price": 2239.0,
       "url": "https://www.x-kom.pl/p/1138986-pamiec-ram-ddr5-kingston-fury-32gb-2x16gb-5600mhz-cl36-beast-white-expo.html",
       "module_type": "dual",
-      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
+      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB) 5600MHz CL36 Beast White EXPO",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8640,7 +8640,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/2/173660553489/ef0edbbabdc0325fd73dc33e99bc1250/patriot-viper-elite-5-ultra-rgb-ddr5-32gb-2x16gb-cl28-czarny,173660553489_7.webp",
       "raw_title": "Pamięć RAM Patriot Viper Elite 5 Ultra RGB DDR5 32GB (2x16GB) 6000 CL28 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8663,7 +8663,7 @@
       "module_type": "dual",
       "image": "/img/300x/779d01/D7P5r5d6C0I0U1G7p5F133I5h4t9r5C0.jpg",
       "raw_title": "GOODRAM DDR5 32GB 6000MHz CL36 2048x8DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8686,7 +8686,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RDKF560C30BBE-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black EXPO 32GB [1x32GB 6000MHz DDR5 CL30 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -8709,7 +8709,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/6/145217018689/183e98ad317380a1a0c2611cca0e8414/lexar-pamiec-lexar-ares-32g-ddr5-6400-cl32-rgb,145217018689_7.webp",
       "raw_title": "Pamięć RAM Lexar Ares RGB DDR5 32GB (2 x 16GB) 6400 CL32 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8732,7 +8732,7 @@
       "module_type": "dual",
       "image": "/img/300x/f27e4d/M640V3G300h0a1L6M8B7f9H1j243y361.jpg",
       "raw_title": "G.SKILL RIPJAWS SO-DIMM DDR5 2X16GB 5600MHZ CL40-4DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8755,7 +8755,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/5/184215222625/a6848265cf5942e74e99c9bc7a2a129/patriot-p-pam-viper-elite-d5-2x16-6000-cl30-w,184215222625_7.webp",
       "raw_title": "Pamięć RAM Patriot Viper Elite 5 RGB DDR5 32GB (2 x 16GB) 6000 CL30 Biały",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8778,7 +8778,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/6/176945567921/cb4458feb855c54601f824797a93e7f8/patriot-pamiec-ram-patriot-ddr5-2x16gb-6400-cl32,176945567921_7.webp",
       "raw_title": "Pamięć RAM Patriot Viper Elite 5 Ultra DDR5 32GB (2x16GB) 6400 CL32 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8801,7 +8801,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/6/126679545505/66ec89ed4c474598c20af7ffde82d097/g-skill-trident-z5-neo-rgb-ddr5-32gb-2-x-16gb-6000-cl30,126679545505_7.webp",
       "raw_title": "Pamięć RAM G.Skill Trident Z5 Neo RGB DDR5 32GB (2 x 16GB) 6000 CL30 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8824,7 +8824,7 @@
       "module_type": "dual",
       "image": "/img/300x/518eee/T9B364g2t0L0B1h753d3P5A1D6O9p0w7.jpg",
       "raw_title": "G.SKILL RIPJAWS M5 NEO AMD RGB DDR5 2X16GB 6000MHZDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8845,9 +8845,9 @@
       "price": 2339.0,
       "url": "https://www.x-kom.pl/p/719670-pamiec-ram-ddr5-gskill-32gb-2x16gb-6000mhz-cl36-trident-z5.html",
       "module_type": "dual",
-      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/2/pr_2022_2_2_12_4_0_902_00.jpg",
+      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/2/pr_2022_2_2_12_4_0_902_00.jpg",
       "raw_title": "G.SKILL 32GB (2x16GB) 6000MHz CL36 Trident Z5",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8870,7 +8870,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_12_33_38_815_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL30 Beast Czarny",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -8891,9 +8891,9 @@
       "price": 2349.0,
       "url": "https://www.x-kom.pl/p/1353067-pamiec-ram-ddr5-kingston-fury-32gb-2x16gb-6000-cl30-beast-bialy.html",
       "module_type": "dual",
-      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_15_20_18_217_01.jpg",
+      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_25_15_20_18_217_01.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB) 6000 CL30 Beast Biały",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8916,7 +8916,7 @@
       "module_type": "dual",
       "image": "/img/300x/a15e90/R4M3w8C4r0N0T1o6D6z7w2h6h149d7M0.jpg",
       "raw_title": "G.SKILL RIPJAWS S5 DDR5 2X16GB 6000MHZ CL36-36 XMPDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8939,7 +8939,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/1/163467425257/cc97de69f425079785f44bef6fd00bfb/lexar-pam-lexar-ares-2x16-id5-6000-cl28-rgb-b,163467425257_7.webp",
       "raw_title": "Pamięć RAM Lexar Ares RGB Gen2 DDR5 32GB (2 x 16GB) 6000 CL28 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8962,7 +8962,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/1/pr_2022_1_7_13_10_7_257_03.jpg",
       "raw_title": "Corsair 32GB (2x16GB) 6000MHz CL36 Vengeance Intel XMP",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -8985,7 +8985,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/8/pr_2025_8_25_12_33_38_815_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 6400 CL32 Beast Czarny",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9008,7 +9008,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/7/pr_2025_7_25_12_32_32_810_00.jpg",
       "raw_title": "Patriot 32GB (1x32GB) 6000 CL30 VIPER RGB Elite 5",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9031,7 +9031,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/3/pr_2023_3_6_15_13_18_988_00.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB) 6800MHz CL34 Beast Black EXPO",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9054,7 +9054,7 @@
       "module_type": "dual",
       "image": "/img/300x/afc63e/O0F1W1m69000I1b7Y368W1X9a7S5G2P9.jpg",
       "raw_title": "G.SKILL AEGIS 5 DDR5 2X16GB 6000MHZ CL36-36 XMP3 BDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9077,7 +9077,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/2/170676134385/c083152b5e49deed0df8479e2532858/g-skill-aegis-5-ddr5-32gb-2-x-16gb-6000-cl36,170676134385_7.webp",
       "raw_title": "Pamięć RAM G.Skill Aegis 5 DDR5 32GB (2 x 16GB) 6000 CL36",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9100,7 +9100,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/2/pr_2022_2_2_11_59_8_835_00.jpg",
       "raw_title": "G.SKILL 32GB (2x16GB) 5600MHz CL40 Ripjaws S5",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9123,7 +9123,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/7/139930879321/76fe94a04b2e6ea4e02b506e537d02b5/kingston-pamiec-fury-beast-black-32gb-6000-d5_1,139930879321_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast DDR5 32GB 6000 CL30 EXPO Czarny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9144,9 +9144,9 @@
       "price": 2489.0,
       "url": "https://www.x-kom.pl/p/1291803-pamiec-ram-ddr5-kingston-fury-32gb-2x16gb-6000-cl36-fury-beast-white.html",
       "module_type": "dual",
-      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
+      "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/4/pr_2023_4_18_14_56_30_447_00.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB) 6000 CL36 FURY Beast White",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9169,7 +9169,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_25_15_10_7_383_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL30 Beast Biały",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9192,7 +9192,7 @@
       "module_type": "single",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_28_11_24_51_882_00.jpg",
       "raw_title": "Kingston FURY 32GB (1x32GB) 6000 CL30 Beast RGB Biały",
-      "fetched_at": "2026-06-26T14:08:44",
+      "fetched_at": "2026-06-26T14:42:07",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9215,7 +9215,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/8/pr_2025_8_28_11_41_39_183_00.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB) 6000 CL36 Beast RGB Biały",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9238,7 +9238,7 @@
       "module_type": "dual",
       "image": "/img/300x/a35d34/Q166i9U2p0T0e1g7j3R3B5a1L6l9Q0N4.jpg",
       "raw_title": "G.SKILL RIPJAWS M5 RGB DDR5 2X16GB 6000MHZ CL36-36DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9261,7 +9261,7 @@
       "module_type": "dual",
       "image": "/img/300x/b06d89/M4Z1e7r1K0f0n16762K2Q4H585q7j2t8.jpg",
       "raw_title": "Silicon Power XPOWER Pulse Gaming DDR5 32GB (2x16GB) 6000MHz CL30 1,35VDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9284,7 +9284,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/9/156466715841/14862b801f11dc0566d69b51e99ab85e/kingston-pam-king-48g-6000-d5-cl32-fury-re-sl-xmp,156466715841_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Renegade DDR5 48GB 6000 CL32 Czarno-srebrny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 48,
         "modules": 1,
@@ -9307,7 +9307,7 @@
       "module_type": "dual",
       "image": "/img/300x/257971/V7K5t3L680A0m1D6n6f7y2g6h1A7K1c8.jpg",
       "raw_title": "G.SKILL TRIDENT NEO AMD RGB DDR5 2X16GB 6000MHZ CLDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9330,7 +9330,7 @@
       "module_type": "dual",
       "image": "https://f00.osfr.pl/foto/5/126679541153/13f35bde18e402768677c10c1267a41f/kingston-fury-beast-rgb-ddr5-32gb-2-x-16gb-5600-cl36,126679541153_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast RGB DDR5 32GB (2 x 16GB) 5600 CL36 Czarny",
-      "fetched_at": "2026-06-26T14:11:05",
+      "fetched_at": "2026-06-26T14:44:27",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9353,7 +9353,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RDKF560C36BBE-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black EXPO 32GB [1x32GB 6000MHz DDR5 CL36 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9376,7 +9376,7 @@
       "module_type": "single",
       "image": "https://static.komputronik.pl/product-picture/5/RAMKF556C40BB-32-1.jpg",
       "raw_title": "Kingston Fury Beast Black 32GB [1x32GB 5600MHz DDR5 CL40 DIMM]",
-      "fetched_at": "2026-06-26T14:10:05",
+      "fetched_at": "2026-06-26T14:43:31",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9399,7 +9399,7 @@
       "module_type": "dual",
       "image": "/img/300x/35a329/L1Z4K1d6E0d0b1H7L3W3D5F1n8T0y4j8.jpg",
       "raw_title": "ADATA XPG Lancer DDR5 RGB 32GB 6000MHz (2x16GB)DDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9422,7 +9422,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/8/pr_2023_8_3_13_7_52_603_00.jpg",
       "raw_title": "Lexar 32GB (2x16GB) 6800MHz Ares Gaming RGB",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9445,7 +9445,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2024/1/pr_2024_1_22_11_12_38_634_00.jpg",
       "raw_title": "G.SKILL 32GB (2x16GB) 6400MHz CL32 Trident Z5 RGB",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9468,7 +9468,7 @@
       "module_type": "single",
       "image": "/img/300x/7243f4/36Y3y1r270e0j1R7m349H5Y4Q7f750j6.jpg",
       "raw_title": "Silicon Power XPOWER Pulse Gaming DDR5 32GB (1x32GB) 6000MHz CL38DDR5 / 32 GB / 1 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9491,7 +9491,7 @@
       "module_type": "dual",
       "image": "/img/300x/d71eb9/V1K7w8s690n0A1M7k7n0F3x6b148i2I4.jpg",
       "raw_title": "GOODRAM DDR5 64GB (2x32GB) 5600MHz CL36 2048Mx8DDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9514,7 +9514,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/5/156466843049/795c6a9baef8a2d5876bdc31bc96a810/kingston-pam-king-fu-re-48g-6000-d5-cl32-rg-xmp,156466843049_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Renegade RGB DDR5 48GB 6000 CL32 Srebrny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 48,
         "modules": 1,
@@ -9537,7 +9537,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2022/8/pr_2022_8_11_11_23_15_994_00.jpg",
       "raw_title": "Kingston FURY 32GB (2x16GB) 6400MHz CL32 Renegade Silver",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9560,7 +9560,7 @@
       "module_type": "dual",
       "image": "/img/300x/85ac01/J4J2Z8p8K0o0Q1f753h3r4R3u3u8l1P0.jpg",
       "raw_title": "G.SKILL TRIDENT NEO AMD RGB DDR5 2X16GB 6400MHZ CLDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9583,7 +9583,7 @@
       "module_type": "single",
       "image": "/img/300x/a6bd0d/57P2w5i4K0z0I1i7W2S4B014a5q5s9E7.jpg",
       "raw_title": "Silicon Power XPOWER Pulse Gaming DDR5 32GB (1x32GB) 6000MHz CL30 1,35VDDR5 / 32 GB / 1 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 32,
         "modules": 1,
@@ -9606,7 +9606,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/7/pr_2025_7_17_15_12_45_135_00.jpg",
       "raw_title": "Patriot 32GB (2x16GB) 6000 CL28 VIPER RGB Elite 5 Ultra",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9629,7 +9629,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2025/7/pr_2025_7_9_15_20_47_689_00.jpg",
       "raw_title": "GOODRAM 32GB (2x16GB) 7600 CL36 IRDM BLACK V SILVER",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9652,7 +9652,7 @@
       "module_type": "dual",
       "image": "/img/300x/526a4e/U5I6C1j5t0P0R1C7W3d33501W5g303y4.jpg",
       "raw_title": "G.SKILL TRIDENT Z5 ROYAL RGB DDR5 2X16GB 6000MHZ CDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9675,7 +9675,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2023/7/pr_2023_7_24_16_41_3_25_02.jpg",
       "raw_title": "Patriot 32GB (2x16GB) 7600MHz CL36 Viper RGB XTREME 5",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9698,7 +9698,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-mini,,2025/7/pr_2025_7_21_12_59_11_885_00.jpg",
       "raw_title": "Silicon Power 32GB (2x16GB) 6000 CL30 XPOWER Pulse",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9721,7 +9721,7 @@
       "module_type": "dual",
       "image": "/img/300x/d345a6/29K7x328Y0X0p1k7E1c7C448v7H0N5m4.jpg",
       "raw_title": "GOODRAM DDR5 64GB DCKit 6000MHz IRDM Black V SilverDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9744,7 +9744,7 @@
       "module_type": "dual",
       "image": "/img/300x/9c4bbe/C0W407a8l0y05187I0x171t7E7D8o604.jpg",
       "raw_title": "GOODRAM DDR5 64GB 6400MHz CL32 2048x8DDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9767,7 +9767,7 @@
       "module_type": "dual",
       "image": "/img/300x/5c04a4/R306j689V0O0R1e7E31344Y330x965M1.jpg",
       "raw_title": "G.SKILL TRIDENT Z5 ROYAL RGB DDR5 2X16GB 8000MHZ CL38 NEO F5-8000J3848H16GX2-TR5NSDDR5 / 32 GB / 2 x 16 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 32,
         "modules": 2,
@@ -9790,7 +9790,7 @@
       "module_type": "dual",
       "image": "/img/300x/4caea6/X0I7A7l7s010E1T7W3W0h820O9r2A5r6.jpg",
       "raw_title": "Pamięć DDR5 PATRIOT Viper Venom 2x32GB 6400MHz CL32 XMP3 (PVV564G640C32K)DDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9813,7 +9813,7 @@
       "module_type": "dual",
       "image": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-big,,2022/5/pr_2022_5_10_13_4_4_266_01.jpg",
       "raw_title": "Patriot 48GB (2x24GB) 6400 CL30 Viper VENOM",
-      "fetched_at": "2026-06-26T14:08:57",
+      "fetched_at": "2026-06-26T14:42:19",
       "specs": {
         "capacity_gb": 48,
         "modules": 2,
@@ -9836,7 +9836,7 @@
       "module_type": "dual",
       "image": "/img/300x/5667d3/O6H555s4D0Y021z7Y5Q7z5Z1K055K8v1.jpg",
       "raw_title": "Patriot Viper Elite5 Ultra DDR5 2x32GB 6000MHz CL28DDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9859,7 +9859,7 @@
       "module_type": "dual",
       "image": "/img/300x/a09b68/47W8n0c510C0Z1S7o3G8w1n9C7R3v1L6.jpg",
       "raw_title": "G.SKILL AEGIS 5 DDR5 2X32GB 5600MHZ CL36-36 XMP3 BDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9882,7 +9882,7 @@
       "module_type": "single",
       "image": "https://f00.osfr.pl/foto/2/165147909009/3d1f066df3ed7925629c207d216d9e5/kingston-p-ram-king-fury-1x64-d5-5600-cl36-rgb-ex,165147909009_7.webp",
       "raw_title": "Pamięć RAM Kingston FURY Beast RGB DDR5 64GB 5600 CL36 EXPO Czarny",
-      "fetched_at": "2026-06-26T14:10:44",
+      "fetched_at": "2026-06-26T14:44:07",
       "specs": {
         "capacity_gb": 64,
         "modules": 1,
@@ -9905,7 +9905,7 @@
       "module_type": "dual",
       "image": "/img/300x/258b82/Y4K8g8P5B030r1k773t8g1B9L6g5E8M3.jpg",
       "raw_title": "G.SKILL AEGIS 5 DDR5 2X32GB 6000MHZ CL36-36 XMP3 BDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9928,7 +9928,7 @@
       "module_type": "dual",
       "image": "/img/300x/02fc48/B3W3z0v2W0N0L1v7S3S811r9U7Q3r1F0.jpg",
       "raw_title": "G.SKILL FLARE X5 AMD DDR5 2X32GB 6000MHZ CL36-36 EDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9951,7 +9951,7 @@
       "module_type": "dual",
       "image": "/img/300x/8a5af5/B0L6G1E5u0J041d783R058D0g8I764I9.jpg",
       "raw_title": "Patriot Viper Venom RGB DDR5 2x32GB 6000MHz CL30 XMP3DDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9974,7 +9974,7 @@
       "module_type": "dual",
       "image": "/img/300x/1c301b/N832S3Z4f0A021l7v1Q5L169s6T1w242.jpg",
       "raw_title": "G.SKILL RIPJAWS S5 DDR5 2X32GB 6000MHZ CL30 XMP3 BDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -9997,7 +9997,7 @@
       "module_type": "dual",
       "image": "/img/300x/8ed1c8/92I2J1g7V0i001j7L1s5n1q9g541d8A7.jpg",
       "raw_title": "G.SKILL TRIDENT Z5 RGB DDR5 2X32GB 6000MHZ CL30 XMDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -10020,7 +10020,7 @@
       "module_type": "dual",
       "image": "/img/300x/8acad6/N4I6X7r8e0I0G1I6j6M7c2R6g1S9d441.jpg",
       "raw_title": "G.SKILL TRIDENT Z5 RGB DDR5 2X32GB 6400MHZ CL32 XMDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -10043,7 +10043,7 @@
       "module_type": "dual",
       "image": "/img/300x/3fdc31/36369501y0Q0c1Q753M3k4d3u4S5y6Z1.jpg",
       "raw_title": "G.SKILL TRIDENT NEO AMD RGB DDR5 2X32GB 6000MHZ CLDDR5 / 64 GB / 2 x 32 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 64,
         "modules": 2,
@@ -10066,7 +10066,7 @@
       "module_type": "single",
       "image": "/img/300x/220ec1/G1B87411h0U0n1J7O5h8p8h7k4165097.webp",
       "raw_title": "ASUS TUF Gaming A18 FA808UM-S9058 Ryzen 7 260 18.0\" 2.5K 240Hz IPS-level 500nits AG 16GB DDR5 5600 SSD512 GeForce R…",
-      "fetched_at": "2026-06-26T14:09:31",
+      "fetched_at": "2026-06-26T14:42:54",
       "specs": {
         "capacity_gb": 16,
         "modules": 1,
@@ -10089,7 +10089,7 @@
       "module_type": "dual",
       "image": "/img/300x/b3a8c0/M893u297s0A0U1P7L5U7O570a8U520N1.jpg",
       "raw_title": "Patriot Viper Elite5 Ultra DDR5 2x48GB 6400MHz CL32DDR5 / 96 GB / 2 x 48 GB",
-      "fetched_at": "2026-06-26T14:09:50",
+      "fetched_at": "2026-06-26T14:43:14",
       "specs": {
         "capacity_gb": 96,
         "modules": 2,
